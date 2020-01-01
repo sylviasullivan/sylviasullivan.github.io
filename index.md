@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](sylvia.jpg){:class="float-left"}
+![](sylvia.jpg){:class="float-left"}{:height='310'}
 
 I study tropical organized convection, its precipitation, and interaction with circulation 
 using satellite data and reanalyses in the research group of Pierre Gentine. In the past, I 
