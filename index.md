@@ -8,7 +8,7 @@ I am currently studying the radiative effects of tropical cirrus in the Asian mo
 in the group of Aiko Voigt. We are using high-resolution modeling (the ICON model) both for
 idealized and Lagrangian trajectory studies. 
 
-In the past few years, have also used geostationary satellite data to study tropical organized 
+In the past few years, I have also used geostationary satellite data to study tropical organized 
 convection and associated precipitation differentiated by El Niño phase. And I completed my 
 thesis on multi-scale modeling of cloud ice formation, both thermodynamic nucleation and secondary
 production processes.
@@ -17,15 +17,20 @@ production processes.
 # Research
 
 ## Satellite climatologies of organized convection
-s
+
+I have collocated ISCCP convective tracking data between 1983 and 2008 with a precipitation product (MSWEP) and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). We used simple information entropy metrics to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>) and most recently used the surface energy and vertical momentum budgets to explain warm-cold phase differences in the distribution of precipitation intensities.
 
 **Publications**
+
+K. A. Schiro, S. C. Sullivan, Y.-H. Kuo, H. Su, P. Gentine, G. S. Elsaesser, J. H. Jiang, and J. David Neelin (2020). **Environmental controls on tropical mesoscale convective system precipitation intensity** [Under revision]. 
+
 S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **Change in tropical precipitation intensity with El Niño warming** *Geophys. Res. Lett.* [Accepted].
 
 S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The response of tropical organized convection to El Niño Warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031026)** *J. Geophys. Res.* 124 (15) pp. 8481--8500.
 
 ## Parcel and mesoscale modeling of secondary ice production
-I built a mixed-phase microphysics parcel model to describe secondary ice production processes like collisional breakup and rime splintering. With this idealized model, I generated estimates of the ice crystal number enhancement from secondary processes, as well as the impact of hydrometeor non-sphericity and updraft fluctuations. I later developed more sophisticated parameterizations of these processes for the COSMO metoeorological model of the German Weather Service and contributed to a review article on observations and modeling of these secondary processes.
+
+I built a mixed-phase microphysics parcel model to describe secondary ice production processes like collisional breakup and rime splintering (<a href="/codes-and-slides">SIM codes</a>). With this idealized model, I generated estimates of the ice crystal number enhancement from secondary processes, as well as the impact of hydrometeor non-sphericity and updraft fluctuations. I later developed more sophisticated parameterizations of these processes for the COSMO metoeorological model of the German Weather Service and contributed to a review article on observations and modeling of these secondary processes.
 
 **Publications**
 
@@ -40,6 +45,7 @@ P. R. Field et al. (2017). **[Secondary ice production: Current state of the sci
 S. C. Sullivan, C. Hoose, and A. Nenes (2017). **[Investigating the contribution of secondary ice production to in‐cloud ice crystal numbers](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026546)** *J. Geophys. Res.* 122 (17) pp. 9391--9412.
 
 ## Sensitivity and attribution analyses for ice nucleation
+
 Computationally efficient sensitivity and attribution analyses can be performed with automatic differentiation of parameterization codes in large-scale models. The resultant *adjoint model* obviates the need for finite differencing, as an output perturbation is back-propagated through to various input perturbations. I have built adjoints from the ice nucleation codes in the Community Atmosphere Model and the Goddard Earth-Observing model and used these to indentify nucleation regime shifts, quantify aerosol nucleation efficiencies, and define temporal attribution metrics.
 
 **Publications**
