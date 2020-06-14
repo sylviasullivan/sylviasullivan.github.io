@@ -17,13 +17,37 @@ production processes.
 # Research
 
 ## Satellite climatologies of organized convection
+s
+
+**Publications**
+S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **Change in tropical precipitation intensity with El Niño warming** *Geophys. Res. Lett.* [Accepted].
+
+S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The response of tropical organized convection to El Niño Warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031026)** *J. Geophys. Res.* 124 (15) pp. 8481--8500.
 
 ## Parcel and mesoscale modeling of secondary ice production
+I built a mixed-phase microphysics parcel model to describe secondary ice production processes like collisional breakup and rime splintering. With this idealized model, I generated estimates of the ice crystal number enhancement from secondary processes, as well as the impact of hydrometeor non-sphericity and updraft fluctuations. I later developed more sophisticated parameterizations of these processes for the COSMO metoeorological model of the German Weather Service and contributed to a review article on observations and modeling of these secondary processes.
+
+**Publications**
+
+G. Sotiropoulou, S. C. Sullivan, J. Savre, G. Lloyd, T. Lachlan-Cope, A. Ekman, and A. Nenes (2020). **[The impact of secondary ice production on Arctic stratocumulus](https://www.atmos-chem-phys.net/20/1301/2020/)**. *Atmos. Chem. Phys.* 20 pp. 1301-1316. 
+
+S. C. Sullivan, C. Barthlott, J. Crosier, I. Zhukov, A. Nenes, and C. Hoose (2018). **[The effect of secondary ice production parameterization on the simulation of a cold frontal rainband](https://www.atmos-chem-phys.net/18/16461/2018/acp-18-16461-2018.pdf)** *Atmos. Chem. Phys.* 18 pp. 16461--16480.
+
+S. C. Sullivan, C. Hoose, A. Kiselev, T. Leisner, and A. Nenes (2018). **[Initiation of secondary ice production in clouds](https://www.atmos-chem-phys.net/18/1593/2018/acp-18-1593-2018.pdf)** *Atmos. Chem. Phys.* 18 pp. 1593--1610.
+
+P. R. Field et al. (2017). **[Secondary ice production: Current state of the science and recommendations for the future](https://journals.ametsoc.org/mono/article/doi/10.1175/AMSMONOGRAPHS-D-16-0014.1/28239/Secondary-Ice-Production-Current-State-of-the)** *Meteor. Monogr.* 58: 7.1-7.20.
+
+S. C. Sullivan, C. Hoose, and A. Nenes (2017). **[Investigating the contribution of secondary ice production to in‐cloud ice crystal numbers](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026546)** *J. Geophys. Res.* 122 (17) pp. 9391--9412.
 
 ## Sensitivity and attribution analyses for ice nucleation
 Computationally efficient sensitivity and attribution analyses can be performed with automatic differentiation of parameterization codes in large-scale models. The resultant *adjoint model* obviates the need for finite differencing, as an output perturbation is back-propagated through to various input perturbations. I have built adjoints from the ice nucleation codes in the Community Atmosphere Model and the Goddard Earth-Observing model and used these to indentify nucleation regime shifts, quantify aerosol nucleation efficiencies, and define temporal attribution metrics.
 
 **Publications**
+
+S. Bacer, S. Sullivan, H. Tost, J. Lelieveld, and A. Pozzer (2020). **[Cold cloud microphysical process rates in a global chemistry-climate model](https://www.atmos-chem-phys-discuss.net/acp-2020-365/acp-2020-365.pdf)** *Atmos. Chem. Phys. Disc.* [Under review]
+
+S. Bacer, S. Sullivan, V. A. Karydis, D. Barahona, A. Nenes, H. Tost, A. P. Tsimpidi, J. Lelieveld, and A. Pozzer (2018). **[Implementation of a comprehensive ice crystal formation parameterization into the EMAC model](https://www.geosci-model-dev.net/11/4021/2018/)** *Geosci. Model Devel.* 11 pp. 4021--4041.
+
 S. C. Sullivan, D. Lee, L. Oreopoulos, and A. Nenes (2016). **[Role of updraft velocity in temporal variability of global cloud hydrometeor number](https://www.pnas.org/content/113/21/5791)** *Proc. Nat. Acad. Sci.* 113 (21) pp. 5791--5796.
 
 S. C. Sullivan, R. Morales, D. Barahona, and A. Nenes (2016). **[Understanding cirrus ice crystal number variability for different heterogeneous ice nucleation spectra](https://www.atmos-chem-phys.net/16/2611/2016/acp-16-2611-2016.pdf)** *Atmos. Chem. Phys.* 16 pp.2611--2629.
