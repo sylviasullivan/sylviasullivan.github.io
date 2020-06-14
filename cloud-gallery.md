@@ -53,10 +53,10 @@ description: Postdoctoral Researcher, Karlsruhe Institute of Technology
     <img src="/Cloud_photos/45.jpg" style="width:100%">
     <img src="/Cloud_photos/46.jpg" style="width:100%">
     <img src="/Cloud_photos/47.jpg" style="width:100%">
-    <img src="/Cloud_photos/48.jpg" style="width:100%">
-    <img src="/Cloud_photos/49.jpg" style="width:100%">
-    <img src="/Cloud_photos/50.jpg" style="width:100%">
-    <img src="/Cloud_photos/51.jpg" style="width:100%">
+    <img src="/Cloud_photos/48.JPG" style="width:100%">
+    <img src="/Cloud_photos/49.JPG" style="width:100%">
+    <img src="/Cloud_photos/50.JPG" style="width:100%">
+    <img src="/Cloud_photos/51.JPG" style="width:100%">
     <img src="/Cloud_photos/81.jpg" style="width:100%">
     <img src="/Cloud_photos/82.jpg" style="width:100%">
     <img src="/Cloud_photos/83.jpg" style="width:100%">
@@ -71,18 +71,18 @@ description: Postdoctoral Researcher, Karlsruhe Institute of Technology
     <img src="/Cloud_photos/18.jpg" style="width:100%">
     <img src="/Cloud_photos/19.jpg" style="width:100%">
     <img src="/Cloud_photos/20.jpg" style="width:100%">
-    <img src="/Cloud_photos/52.jpg" style="width:100%">
-    <img src="/Cloud_photos/53.jpg" style="width:100%">
-    <img src="/Cloud_photos/54.jpg" style="width:100%">
-    <img src="/Cloud_photos/55.jpg" style="width:100%">
-    <img src="/Cloud_photos/56.jpg" style="width:100%">
-    <img src="/Cloud_photos/57.jpg" style="width:100%">
-    <img src="/Cloud_photos/58.jpg" style="width:100%">
-    <img src="/Cloud_photos/49.jpg" style="width:100%">
-    <img src="/Cloud_photos/60.jpg" style="width:100%">
-    <img src="/Cloud_photos/61.jpg" style="width:100%">
-    <img src="/Cloud_photos/62.jpg" style="width:100%">
-    <img src="/Cloud_photos/63.jpg" style="width:100%">
+    <img src="/Cloud_photos/52.JPG" style="width:100%">
+    <img src="/Cloud_photos/53.JPG" style="width:100%">
+    <img src="/Cloud_photos/54.JPG" style="width:100%">
+    <img src="/Cloud_photos/55.JPG" style="width:100%">
+    <img src="/Cloud_photos/56.JPG" style="width:100%">
+    <img src="/Cloud_photos/57.JPG" style="width:100%">
+    <img src="/Cloud_photos/58.JPG" style="width:100%">
+    <img src="/Cloud_photos/59.JPG" style="width:100%">
+    <img src="/Cloud_photos/60.JPG" style="width:100%">
+    <img src="/Cloud_photos/61.JPG" style="width:100%">
+    <img src="/Cloud_photos/62.JPG" style="width:100%">
+    <img src="/Cloud_photos/63.JPG" style="width:100%">
     <img src="/Cloud_photos/86.jpg" style="width:100%">
     <img src="/Cloud_photos/87.jpg" style="width:100%">
     <img src="/Cloud_photos/88.jpg" style="width:100%">
@@ -96,15 +96,15 @@ description: Postdoctoral Researcher, Karlsruhe Institute of Technology
     <img src="/Cloud_photos/25.jpg" style="width:100%">
     <img src="/Cloud_photos/26.jpg" style="width:100%">
     <img src="/Cloud_photos/27.jpg" style="width:100%">
-    <img src="/Cloud_photos/64.jpg" style="width:100%">
-    <img src="/Cloud_photos/65.jpg" style="width:100%">
-    <img src="/Cloud_photos/66.jpg" style="width:100%">
-    <img src="/Cloud_photos/67.jpg" style="width:100%">
-    <img src="/Cloud_photos/68.jpg" style="width:100%">
-    <img src="/Cloud_photos/69.jpg" style="width:100%">
-    <img src="/Cloud_photos/70.jpg" style="width:100%">
-    <img src="/Cloud_photos/71.jpg" style="width:100%">
-    <img src="/Cloud_photos/72.jpg" style="width:100%">
+    <img src="/Cloud_photos/64.JPG" style="width:100%">
+    <img src="/Cloud_photos/65.JPG" style="width:100%">
+    <img src="/Cloud_photos/66.JPG" style="width:100%">
+    <img src="/Cloud_photos/67.JPG" style="width:100%">
+    <img src="/Cloud_photos/68.JPG" style="width:100%">
+    <img src="/Cloud_photos/69.JPG" style="width:100%">
+    <img src="/Cloud_photos/70.JPG" style="width:100%">
+    <img src="/Cloud_photos/71.JPG" style="width:100%">
+    <img src="/Cloud_photos/72.JPG" style="width:100%">
     <img src="/Cloud_photos/73.jpg" style="width:100%">
     <img src="/Cloud_photos/74.jpg" style="width:100%">
     <img src="/Cloud_photos/75.jpg" style="width:100%">
