@@ -15,3 +15,13 @@ description: Postdoctoral Researcher, Karlsruhe Institute of Technology
 **[Secondary ice models (SIM series)](https://github.com/sylviasullivan/SIM)**
 
 **[Ice nucleation adjoint](https://github.com/sylviasullivan/ice-adjoint)** - These files were generated from the **[TAPENADE version 3.5](http://www-tapenade.inria.fr:8080/tapenade/)** automatic differentiation tool.
+
+**[AGU 2015 - Idealized simulations of secondary ice](/AGU2015.pdf)**
+
+**[AGU 2016 - Secondary ice production within a rainband](/AGU2016.pdf)**
+
+**[Ziegler presentation - Importance of vertical velocity for nucleation](/Ziegler-Sullivan.pptx)**
+
+**[EGU 2018 - MCS structure and ENSO](/2018-EGU-MCS-ENSO-Sullivan-Gentine.pptx)**
+
+**[EGU 2018 - Idealized simulations of secondary ice](/2018-EGU-secondary-ice-Sullivan_et_al.pptx)**
