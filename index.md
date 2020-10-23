@@ -4,8 +4,9 @@ layout: default
 
 ![](sylvia.jpg){:class="float-left"}{:height='300'}
 
-I am currently studying the radiative effects of tropical cirrus in the Asian monsoon region
-in the group of Aiko Voigt. We are using high-resolution modeling (the ICON model) both for
+I am a Young Investigator Fellow at the Karlsruhe Institute of Technology, studying 
+the radiative effects of tropical cirrus in the Asian monsoon region
+with Aiko Voigt. We are using high-resolution modeling (the ICON model) both for
 idealized and Lagrangian trajectory studies. 
 
 In the past few years, I have also used geostationary satellite data to study tropical organized 
@@ -22,9 +23,9 @@ I have collocated ISCCP convective tracking data between 1983 and 2008 with a pr
 
 **Publications**
 
-K. A. Schiro, S. C. Sullivan, Y.-H. Kuo, H. Su, P. Gentine, G. S. Elsaesser, J. H. Jiang, and J. David Neelin (2020). **Environmental controls on tropical mesoscale convective system precipitation intensity** [Under revision]. 
+S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **[Change in tropical precipitation intensity with El Niño warming](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087663)** *Geophys. Res. Lett.* 47 (14) e2020GL087663.
 
-S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **Change in tropical precipitation intensity with El Niño warming** *Geophys. Res. Lett.* [Accepted].
+K. A. Schiro, S. C. Sullivan, Y.-H. Kuo, H. Su, P. Gentine, G. S. Elsaesser, J. H. Jiang, and J. David Neelin (2020). **[Environmental controls on tropical mesoscale convective system precipitation intensity](https://journals.ametsoc.org/jas/article/doi/10.1175/JAS-D-20-0111.1/354632/Environmental-controls-on-tropical-mesoscale)** *J. Atmos. Sci.* doi: 10.1175/JAS-D-20-0111.1
 
 S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The response of tropical organized convection to El Niño Warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031026)** *J. Geophys. Res.* 124 (15) pp. 8481--8500.
 
@@ -50,7 +51,7 @@ Computationally efficient sensitivity and attribution analyses can be performed 
 
 **Publications**
 
-S. Bacer, S. Sullivan, H. Tost, J. Lelieveld, and A. Pozzer (2020). **[Cold cloud microphysical process rates in a global chemistry-climate model](https://www.atmos-chem-phys-discuss.net/acp-2020-365/acp-2020-365.pdf)** *Atmos. Chem. Phys. Disc.* [Under review]
+S. Bacer, S. Sullivan, H. Tost, J. Lelieveld, and A. Pozzer (2020). **[Cold cloud microphysical process rates in a global chemistry-climate model](https://www.atmos-chem-phys-discuss.net/acp-2020-365/acp-2020-365.pdf)** *Atmos. Chem. Phys. Disc.* [Under revision]
 
 S. Bacer, S. Sullivan, V. A. Karydis, D. Barahona, A. Nenes, H. Tost, A. P. Tsimpidi, J. Lelieveld, and A. Pozzer (2018). **[Implementation of a comprehensive ice crystal formation parameterization into the EMAC model](https://www.geosci-model-dev.net/11/4021/2018/)** *Geosci. Model Devel.* 11 pp. 4021--4041.
 
