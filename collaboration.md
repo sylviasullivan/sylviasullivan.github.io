@@ -4,13 +4,13 @@ Over the past year, I have been organizing an AGU Wiley Geophysical Monograph on
 
 **[Monograph table of contents](/git-toc.pdf)**
 
-<img src="https://github.com/sylviasullivan/sylviasullivan.github.io/blob/master/publications.png" width="600" height="250" />
+<img src="/publications.png" width="600" height="250" />
 
 ## Hydrological studies
 
 I have been lucky to work with Dr. Jiabo Yin and others at Wuhan University on several hydrological studies, discussing the intensification of runoff, drought, and flooding both globally and in China.
 
-<img src="https://github.com/sylviasullivan/sylviasullivan.github.io/blob/master/drought-severity.PNG" width="600" height="200" />
+<img src="/drought-severity.PNG" width="600" height="200" />
 
 J. Yin, S. Guo, P. Gentine, S. Sullivan, L. Gu, S. He, J. Chen, and P. Liu. Shifting regulations of storm runoff extremes under antropogenic climate warming (2020). Water Res. Rev. [under revision]. 
 
