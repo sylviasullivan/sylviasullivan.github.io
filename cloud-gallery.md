@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sylvia Sullivan
-description: Postdoctoral Researcher, Karlsruhe Institute of Technology
+description: Young Investigator Fellow, Karlsruhe Institute of Technology
 ---
 
 <!-- Header -->
