@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sylvia Sullivan
+description: Young Investigator Fellow, Karlsruhe Institute of Technology
+---
+
 ## Clouds and climate monograph
 
 Over the past year, I have been organizing an AGU Wiley Geophysical Monograph on Clouds and Climate, along with Corinna Hoose. We have assembled a great group of authors and structured the contents around themes on radiation, circulation, and precipitation. The volume should appear in the first half of 2020, around the same time as the Physical Science Basis of the IPCC Sixth Assessment Report. We have also been performing meta-analyses of cloud literature, analysing publication trends and author networks over time.
