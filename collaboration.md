@@ -2,7 +2,7 @@
 
 Over the past year, I have been organizing an AGU Wiley Geophysical Monograph on Clouds and Climate, along with Corinna Hoose. We have assembled a great group of authors and structured the contents around themes on radiation, circulation, and precipitation. The volume should appear in the first half of 2020, around the same time as the Physical Science Basis of the IPCC Sixth Assessment Report. We have also been performing meta-analyses of cloud literature, analysing publication trends and author networks over time.
 
-**[Monograph table of contents](/git-toc.pdf)**
+**[Monograph table of contents](/Files/git-toc.pdf)**
 
 <img src="/publications.png" width="600" height="250" />
 
@@ -10,7 +10,7 @@ Over the past year, I have been organizing an AGU Wiley Geophysical Monograph on
 
 I have been lucky to work with Dr. Jiabo Yin and others at Wuhan University on several hydrological studies, discussing the intensification of runoff, drought, and flooding both globally and in China.
 
-<img src="/drought-severity.PNG" width="600" height="200" />
+<img src="/Files/drought-severity.PNG" width="600" height="200" />
 
 J. Yin, S. Guo, P. Gentine, S. Sullivan, L. Gu, S. He, J. Chen, and P. Liu. Shifting regulations of storm runoff extremes under antropogenic climate warming (2020). Water Res. Rev. [under revision]. 
 
