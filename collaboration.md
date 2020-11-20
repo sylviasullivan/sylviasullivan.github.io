@@ -4,7 +4,7 @@ Over the past year, I have been organizing an AGU Wiley Geophysical Monograph on
 
 **[Monograph table of contents](/Files/git-toc.pdf)**
 
-<img src="/publications.png" width="600" height="250" />
+<img src="/Files/publications.png" width="600" height="250" />
 
 ## Hydrological studies
 
