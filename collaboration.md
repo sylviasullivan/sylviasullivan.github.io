@@ -18,7 +18,7 @@ I have been lucky to work with Dr. Jiabo Yin and others at Wuhan University on s
 
 <img src="/Files/drought-severity.PNG" width="600" height="200" />
 
-J. Yin, S. Guo, P. Gentine, S. Sullivan, L. Gu, S. He, J. Chen, and P. Liu. Shifting regulations of storm runoff extremes under antropogenic climate warming (2020). Water Res. Rev. [under revision]. 
+J. Yin, S. Guo, P. Gentine, S. Sullivan, L. Gu, S. He, J. Chen, and P. Liu. Does the hook structure constrain future flood intensification under anthropogenic climate warming? (2020). Water Res. Rev. [accepted]. 
 
 L. Gu, J. Yin, J. Chen, S. Guo, S. Sullivan, H.-M. Wang, and C.-Y. Xu. **[Projected increases in magnitudes and socioeconomic exposures of global droughts in 1.5° and 2°C warmer climates](https://hess.copernicus.org/articles/24/451/2020/)** (2020). Hydrol. Earth Syst. Sci. 24: 451-472. 
 
