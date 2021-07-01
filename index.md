@@ -17,6 +17,10 @@ production processes.
 
 # Research
 
+In a series of ICON model storm-resolving simulations over the Asian monsoon region, we investigated the effect of ice microphysical "switches" on the cloud-radiative heating rates and outgoing longwave radiation. Our results have been recently published in Communications Earth & Environment, and we wrote a blog post about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper).
+
+S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
+
 ## Satellite climatologies of organized convection
 
 I have collocated ISCCP convective tracking data between 1983 and 2008 with a precipitation product (MSWEP) and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). We used simple information entropy metrics to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>) and most recently used the surface energy and vertical momentum budgets to explain warm-cold phase differences in the distribution of precipitation intensities.
@@ -51,7 +55,7 @@ Computationally efficient sensitivity and attribution analyses can be performed 
 
 **Publications**
 
-S. Bacer, S. Sullivan, H. Tost, J. Lelieveld, and A. Pozzer (2020). **[Cold cloud microphysical process rates in a global chemistry-climate model](https://www.atmos-chem-phys-discuss.net/acp-2020-365/acp-2020-365.pdf)** *Atmos. Chem. Phys. Disc.* [Under revision]
+S. Bacer, S. Sullivan, H. Tost, J. Lelieveld, and A. Pozzer (2021). **[Cold cloud microphysical process rates in a global chemistry-climate model](https://acp.copernicus.org/articles/21/1485/2021/acp-21-1485-2021.pdf)** *Atmos. Chem. Phys.* 21 pp. 1485–1505.
 
 S. Bacer, S. Sullivan, V. A. Karydis, D. Barahona, A. Nenes, H. Tost, A. P. Tsimpidi, J. Lelieveld, and A. Pozzer (2018). **[Implementation of a comprehensive ice crystal formation parameterization into the EMAC model](https://www.geosci-model-dev.net/11/4021/2018/)** *Geosci. Model Devel.* 11 pp. 4021--4041.
 
