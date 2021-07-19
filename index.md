@@ -17,7 +17,7 @@ production processes.
 
 # Research
 
-In a series of ICON model storm-resolving simulations over the Asian monsoon region, we investigated the effect of ice microphysical "switches" on the cloud-radiative heating rates and outgoing longwave radiation. Our results have been recently published in Communications Earth & Environment, and we wrote a blog post about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper).
+In a series of ICON model storm-resolving simulations over the Asian monsoon region, we investigated the effect of ice microphysical "switches" on the cloud-radiative heating rates and outgoing longwave radiation with results recently published in Communications Earth & Environment. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and KIT wrote a press release [here](https://www.kit.edu/kit/29383.php).
 
 S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
 
