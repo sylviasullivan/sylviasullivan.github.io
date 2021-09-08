@@ -5,6 +5,7 @@ description: Young Investigator Fellow, Karlsruhe Institute of Technology
 ---
 
 ## Racing
+*September 2021: Semi-Marathon de Paris*, **[1:44:22](https://resultscui.active.com/participants/40431145)**
 
 *June 2019: New York Mini 10 K*, **[45:27](https://results.nyrr.org/event/19MINI/result/5611)**
 
