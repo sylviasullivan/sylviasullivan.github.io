@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Lab for Multiscale Cloud Modeling and Experimentation
+description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
 # Research
