@@ -2,19 +2,6 @@
 layout: default
 ---
 
-![](sylvia.jpg){:class="float-left"}{:height='300'}
-
-I am a Young Investigator Fellow at the Karlsruhe Institute of Technology, studying 
-the radiative effects of tropical cirrus in the Asian monsoon region
-with Aiko Voigt. We are using high-resolution modeling (the ICON model) both for
-idealized and Lagrangian trajectory studies. 
-
-In the past few years, I have also used geostationary satellite data to study tropical organized 
-convection and associated precipitation differentiated by El Niño phase. And I completed my 
-thesis on multi-scale modeling of cloud ice formation, both thermodynamic nucleation and secondary
-production processes.
-
-
 # Research
 
 In a series of ICON model storm-resolving simulations over the Asian monsoon region, we investigated the effect of ice microphysical "switches" on the cloud-radiative heating rates and outgoing longwave radiation with results recently published in Communications Earth & Environment. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and KIT and the University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560).
