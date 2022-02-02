@@ -7,12 +7,6 @@ description: Department of Chemical and Environmental Engineering, University of
 
 ![](sylvia.jpg){:class="float-left"}{:height='300'}
 
-I am a Young Investigator Fellow at the Karlsruhe Institute of Technology, studying 
-the radiative effects of tropical cirrus in the Asian monsoon region
-with Aiko Voigt. We are using high-resolution modeling (the ICON model) both for
-idealized and Lagrangian trajectory studies. 
+Sylvia started as an Assistant Professor at the University of Arizona in January 2022. She has spent time as a fellow at the Karlsruhe Institute of Technology and a postdoctoral researcher at Columbia University. She earned her doctorate from the Georgia Institute of Technology in 2017 and her bachelors from the California Institute of Technology in 2012, both in chemical engineering with concentrations on earth and environmental sciences. In her free time, she is an avid runner, reader, and language buff.
 
-In the past few years, I have also used geostationary satellite data to study tropical organized 
-convection and associated precipitation differentiated by El Niño phase. And I completed my 
-thesis on multi-scale modeling of cloud ice formation, both thermodynamic nucleation and secondary
-production processes.
+**[Sylvia's CV](/Files/CV-SSullivan.pdf)**
