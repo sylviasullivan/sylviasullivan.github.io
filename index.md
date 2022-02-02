@@ -12,6 +12,8 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 In a series of storm-resolving (2.5-km) simulations over the Asian monsoon region, we found a strong effect of ice microphysical ``switches" (factors like ice crystal size and whether the model tracks crystal number along with ice mass) on the cloud-radiative heating rates and outgoing longwave radiation. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and the Karlsruhe Institute of Technology and University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560). We are currently finishing up work that uses a trajecotry module to track the ice cloud outflow from convective storms over time.
 
+**Publications**
+
 S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). Constraining feedbacks to assess the impact of ice microphysics on cloud-radiative heating *[in preparation for J. Adv. Model Earth Sys.]*
 
 S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
