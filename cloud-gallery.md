@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sylvia Sullivan
-description: Young Investigator Fellow, Karlsruhe Institute of Technology
+title: Lab for Multiscale Cloud Modeling and Experimentation
+description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
 <!-- Header -->
