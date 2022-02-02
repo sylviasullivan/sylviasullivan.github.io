@@ -10,7 +10,8 @@ Over the past two and a half years, I have been organizing an AGU Wiley Geophysi
 
 **[Monograph table of contents](/Files/git-toc-v3.pdf)**
 
-The introductory chapter presents analyses of the scientific literautre on clouds and climate ("science of science") and will be available shortly on Essoar:
+The introductory chapter presents analyses of the scientific literautre on clouds and climate ("science of science") and is available on Essoar:
+**[Science of cloud and climate science: An analysis of the literature over the past 50 years]**(https://www.essoar.org/doi/abs/10.1002/essoar.10510355.1)
 
 ## Hydrological studies
 
