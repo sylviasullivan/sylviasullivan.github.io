@@ -6,15 +6,23 @@ description: Department of Chemical and Environmental Engineering, University of
 
 # Research
 
-In a series of ICON model storm-resolving simulations over the Asian monsoon region, we investigated the effect of ice microphysical "switches" on the cloud-radiative heating rates and outgoing longwave radiation with results recently published in Communications Earth & Environment. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and KIT and the University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560).
+We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. At the moment, we are focused on mesoscale convective systems as a specific instance of this atmospheric scale problem. Mesoscale convective systems are aggregations of thunderstorms that extend over hundreds of kilometers and bring the majority of extreme rainfall throughout the tropics. Their intermediate size in the spectrum of atmospheric phenomena means that they are influenced by both the smallest scales (like ice crystal or droplet formation, called cloud microphysics) and the largest scales (via circulation patterns like the Hadley cell). We are working to understand the smallest scales through benchtop experimentation and idealized parcel modeling and the largest scales through high-resolution storm-resolving simulations. 
+
+## Radiative heating from ice clouds
+
+In a series of storm-resolving (2.5-km) simulations over the Asian monsoon region, we found a strong effect of ice microphysical ``switches" (factors like ice crystal size and whether the model tracks crystal number along with ice mass) on the cloud-radiative heating rates and outgoing longwave radiation. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and the Karlsruhe Institute of Technology and University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560). We are currently finishing up work that uses a trajecotry module to track the ice cloud outflow from convective storms over time.
+
+S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). Constraining feedbacks to assess the impact of ice microphysics on cloud-radiative heating *[in preparation for J. Adv. Model Earth Sys.]*
 
 S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
 
-## Satellite climatologies of organized convection
+## Satellite climatologies of mesoscale convective systems
 
-I have collocated ISCCP convective tracking data between 1983 and 2008 with a precipitation product (MSWEP) and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). We used simple information entropy metrics to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>) and most recently used the surface energy and vertical momentum budgets to explain warm-cold phase differences in the distribution of precipitation intensities.
+ISCCP convective tracking data between 1983 and 2008 was collocated with a precipitation product (MSWEP) and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). We used simple information entropy metrics to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>) and most recently used the surface energy and vertical momentum budgets to explain warm-cold phase differences in the distribution of precipitation intensities.
 
 **Publications**
+
+S. Chakraborty, S. C. Sullivan, and Z. Feng (2022). An Overview of Mesoscale Convective Systems: Global Climatology, Satellite Observations, and Modelling Strategies. Under review at *Geophys. Monog. Series*.
 
 S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **[Change in tropical precipitation intensity with El Niño warming](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087663)** *Geophys. Res. Lett.* 47 (14) e2020GL087663.
 
