@@ -4,7 +4,11 @@ title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering
 ---
 
-## Codes and slides
+## Resources
+
+We are committed to open and reproducible research and are happy to share any resources not provided here upon request.
+
+### Codes
 
 **[Offline radiative transfer calculations (ongoing)](https://github.com/sylviasullivan/RRTM)**
 
@@ -16,12 +20,13 @@ description: Department of Chemical and Environmental Engineering
 
 **[Ice nucleation adjoint](https://github.com/sylviasullivan/ice-adjoint)** - These files were generated from the **[TAPENADE version 3.5](http://www-tapenade.inria.fr:8080/tapenade/)** automatic differentiation tool.
 
-**[AGU 2015 - Idealized simulations of secondary ice](/Files/AGU2015.pdf)**
+### Data
 
-**[AGU 2016 - Secondary ice production within a rainband](/Files/AGU2016.pdf)**
+**[Secondary ice production parameterization output - COSMO model](https://zenodo.org/record/1481877#.YpkTmWjMJD8)**
 
-**[Ziegler presentation - Importance of vertical velocity for nucleation](/Files/Ziegler-Sullivan.pptx)**
+**[Postprocessed cloud radiative and microphysical output - ICON model](https://zenodo.org/record/4808394#.YpkTw2jMJD8)**
 
-**[EGU 2018 - MCS structure and ENSO](/Files/2018-EGU-MCS-ENSO-Sullivan-Gentine.pptx)**
+**[Science of cloud and climate science - Scopus database](https://zenodo.org/record/5524758#.YpkTzmjMJD8)**
 
-**[EGU 2018 - Idealized simulations of secondary ice](/Files/2018-EGU-secondary-ice-Sullivan_et_al.pptx)**
+**[Postprocessed trajectory output for ice cloud microphysics - ICON and CLaMS-Ice models](https://zenodo.org/record/6601215#.YpkUPmjMJD8)**
+
