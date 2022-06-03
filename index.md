@@ -11,7 +11,7 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 **We are hiring!** [A postdoc position](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/8896?c=arizona) focused on setting up a laboratory space to perform benchtop experiments on small-scale ice physics. If you have interest in nucleation, crystallization, or cloud microphysics, please get in touch!
 
-![](Files/CRH-figure.png){:class="float-left"}{:height='300'}
+![](Files/CRH-figure.png){:class="float-right"}{:height='330'}
 
 ## Radiative heating from ice clouds
 
@@ -53,7 +53,7 @@ P. R. Field et al. (2017). **[Secondary ice production: Current state of the sci
 
 S. C. Sullivan, C. Hoose, and A. Nenes (2017). **[Investigating the contribution of secondary ice production to in‐cloud ice crystal numbers](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026546)** *J. Geophys. Res.* 122 (17) pp. 9391--9412.
 
-![](Files/INP-sensitivity.png){:class="float-left"}{:height='300'}
+![](Files/INP-sensitivity.png){:class="float-right"}{:height='300'}
 
 ## Sensitivity and attribution analyses for ice nucleation
 
