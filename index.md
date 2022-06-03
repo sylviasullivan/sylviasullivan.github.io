@@ -11,9 +11,9 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 **We are hiring!** [A postdoc position](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/8896?c=arizona) focused on setting up a laboratory space to perform benchtop experiments on small-scale ice physics. If you have interest in nucleation, crystallization, or cloud microphysics, please get in touch!
 
-![](Files/CRH-figure.png){:class="float-right"}{:height='330'}
-
 ## Radiative heating from ice clouds
+
+![](Files/CRH-figure.png){:class="float-right"}{:height='330'}
 
 In a series of storm-resolving (2.5-km) simulations over the Asian monsoon region, we found a strong effect of ice microphysical ``switches" (factors like ice crystal size and whether the model tracks crystal number along with ice mass) on the cloud-radiative heating rates and outgoing longwave radiation. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and the Karlsruhe Institute of Technology and University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560). We are currently finishing up work that uses a trajecotry module to track the ice cloud outflow from convective storms over time.
 
@@ -53,9 +53,9 @@ P. R. Field et al. (2017). **[Secondary ice production: Current state of the sci
 
 S. C. Sullivan, C. Hoose, and A. Nenes (2017). **[Investigating the contribution of secondary ice production to in‐cloud ice crystal numbers](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JD026546)** *J. Geophys. Res.* 122 (17) pp. 9391--9412.
 
-![](Files/INP-sensitivity.png){:class="float-right"}{:height='300'}
-
 ## Sensitivity and attribution analyses for ice nucleation
+
+![](Files/INP-sensitivity.png){:class="float-right"}{:height='300'}
 
 Computationally efficient sensitivity and attribution analyses can be performed with automatic differentiation of parameterization codes in large-scale models. The resultant *adjoint model* obviates the need for finite differencing, as an output perturbation is back-propagated through to various input perturbations. I have built adjoints from the ice nucleation codes in the Community Atmosphere Model and the Goddard Earth-Observing model and used these to indentify nucleation regime shifts, quantify aerosol nucleation efficiencies, and define temporal attribution metrics.
 
