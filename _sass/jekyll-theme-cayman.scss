@@ -110,7 +110,7 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("https://raw.githubusercontent.com/sylviasullivan/sylviasullivan.github.io/master/Files/cloud-background.jpg");
-  object-fit: fill;
+  background-size: cover;
 
   @include large {
     padding: 5rem 6rem;
