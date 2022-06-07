@@ -13,6 +13,8 @@ description: Department of Chemical and Environmental Engineering, University of
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
+    <img src="/Cloud_photos/IMG_20220228_165605266_HDR.jpg" style="width:100%">
+    <img src="/Cloud_photos/santiago_altocumulus.jpeg" style="width:100%">
     <img src="/Cloud_photos/1.jpg" style="width:100%">
     <img src="/Cloud_photos/2.jpg" style="width:100%">
     <img src="/Cloud_photos/3.jpg" style="width:100%">
@@ -39,6 +41,8 @@ description: Department of Chemical and Environmental Engineering, University of
     <img src="/Cloud_photos/80.jpg" style="width:100%">
   </div>
   <div class="column">
+    <img src="/Cloud_photos/IMG_20220228_165605266_HDR.jpg" style="width:100%">
+    <img src="/Cloud_photos/tucson-cirrus1.jpg" style="width:100%">
     <img src="/Cloud_photos/8.jpg" style="width:100%">
     <img src="/Cloud_photos/9.jpg" style="width:100%">
     <img src="/Cloud_photos/10.jpg" style="width:100%">
@@ -64,6 +68,7 @@ description: Department of Chemical and Environmental Engineering, University of
     <img src="/Cloud_photos/85.jpg" style="width:100%">
   </div>  
   <div class="column">
+    <img src="/Cloud_photos/IMG_20220228_165605266_HDR.jpg" style="width:100%">
     <img src="/Cloud_photos/14.jpg" style="width:100%">
     <img src="/Cloud_photos/15.jpg" style="width:100%">
     <img src="/Cloud_photos/16.jpg" style="width:100%">
