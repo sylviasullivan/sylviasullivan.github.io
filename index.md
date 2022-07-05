@@ -45,7 +45,7 @@ S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The r
 
 ![](Files/secondary-ice.png){:class="float-right"}{:height='300'}
 
-I built a mixed-phase microphysics parcel model to describe secondary ice production processes like collisional breakup and rime splintering (<a href="/codes-and-slides">SIM codes</a>). With this idealized model, I generated estimates of the ice crystal number enhancement from secondary processes, as well as the impact of hydrometeor non-sphericity and updraft fluctuations. I later developed more sophisticated parameterizations of these processes for the COSMO metoeorological model of the German Weather Service and contributed to a review article on observations and modeling of these secondary processes.
+We have built a mixed-phase microphysics parcel model to describe secondary ice production processes like collisional breakup and rime splintering (<a href="/codes-and-slides">SIM codes</a>). With this idealized model, we generated estimates of the ice crystal number enhancement from secondary processes, as well as the impact of hydrometeor non-sphericity and updraft fluctuations. More sophisticated parameterizations of these processes were later developed for the COSMO metoeorological model of the German Weather Service and contributed to a review article on observations and modeling of these secondary processes.
 
 **Publications**
 
@@ -63,7 +63,7 @@ S. C. Sullivan, C. Hoose, and A. Nenes (2017). **[Investigating the contribution
 
 ![](Files/INP-sensitivity.png){:class="float-right"}{:height='300'}
 
-Computationally efficient sensitivity and attribution analyses can be performed with automatic differentiation of parameterization codes in large-scale models. The resultant *adjoint model* obviates the need for finite differencing, as an output perturbation is back-propagated through to various input perturbations. I have built adjoints from the ice nucleation codes in the Community Atmosphere Model and the Goddard Earth-Observing model and used these to indentify nucleation regime shifts, quantify aerosol nucleation efficiencies, and define temporal attribution metrics.
+Computationally efficient sensitivity and attribution analyses can be performed with automatic differentiation of parameterization codes in large-scale models. The resultant *adjoint model* obviates the need for finite differencing, as an output perturbation is back-propagated through to various input perturbations. We have built adjoints from the ice nucleation codes in the Community Atmosphere Model and the Goddard Earth-Observing model and used these to identify nucleation regime shifts, quantify aerosol nucleation efficiencies, and define temporal attribution metrics.
 
 **Publications**
 
