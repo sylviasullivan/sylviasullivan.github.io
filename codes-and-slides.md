@@ -30,3 +30,5 @@ We are committed to open and reproducible research and are happy to share any re
 
 **[Postprocessed trajectory output for ice cloud microphysics - ICON and CLaMS-Ice models](https://zenodo.org/record/6601215#.YpkUPmjMJD8)**
 
+**[Postprocessed NAWDEX simulation data for North Atlantic CRH study](https://zenodo.org/record/7236564#.Y1MWYHbMJD8)**
+
