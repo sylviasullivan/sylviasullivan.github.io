@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lab for Multiscale Cloud Modeling and Experimentation
+description: Department of Chemical and Environmental Engineering, University of Arizona
+---
+
 ## Radiative heating from ice clouds
 
 ![](Files/CRH-figure.png){:class="float-right"}{:height='330'}
