@@ -12,9 +12,11 @@ In a series of storm-resolving (2.5-km) simulations over the Asian monsoon regio
 
 **Publications**
 
-S. C. Sullivan, A. Voigt, C. Rolf, and M. Krämer (2022). Evaluation of simulated upper-tropospheric lower-stratospheric properties over the Asian monsoon region. *[in preparation for Geophys. Res. Lett.]*
+S. C. Sullivan, A. Voigt, N. Albern, E. Bala, C. Braun, A. Choudhary, J. Hörner, B. Keshtgar, H. Lentink, and G. Papavasileiou (2023). Model dependencies of cloud-radiative heating over the North Atlantic. *[in preparation for J. Geophys. Res.]*
 
-S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). A Lagrangian perspective of microphysical impact on ice cloud evolution and radiative heating. *[under review at J. Adv. Model Earth Sys.]*
+S. C. Sullivan, A. Voigt, C. Rolf, and M. Krämer (2023). Evaluation of simulated upper-tropospheric lower-stratospheric properties over the Asian monsoon region. *[in preparation for Geophys. Res. Lett.]*
+
+S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). **[A Lagrangian perspective of microphysical impact on ice cloud evolution and radiative heating](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003226)** *J. Adv. Model Earth Sys.* doi: 10.1029/2022MS003226.
 
 S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
 
