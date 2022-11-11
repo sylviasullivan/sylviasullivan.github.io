@@ -31,6 +31,7 @@ Edgardo is a PhD student in Environmental Engineering, focusing on the radiative
 
 Linda is a senior undergraduate student in Environmental Engineering and will help us begin to assemble an ice crystal nucleation chamber. She will also analyze data from the Arizona Department of Environmental Quality to assess changes in low-level aerosol loadings in the Tucson area before and after storm passage. Linda is originally from Austin, Texas and minoring in Film.
 
+---
 **Group Principles**
 
 Our research group is guided by the following principles:
