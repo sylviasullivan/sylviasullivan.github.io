@@ -13,7 +13,8 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 # Latest News
 
-| 20 October 2022  | Sylvia's article on trajectory tracking of ice clouds and their radiative heating was accepted in JAMES.  | 
+| 10 Nov 2022 | We received $13K of funding from UA Research, Impact, and Innovation to facilitate collaboration with those at KIT in 2023! |
 |:--|:--|
-| 30 August 2022 | Congratulations to Edgardo on receiving a Herbold fellowship from the UA College of Engineering. | 
-| 22 August 2022 | We are welcoming Thabo and Edgardo to Tucson, AZ and to the group! |
+| 20 Oct 2022  | Sylvia's article on trajectory tracking of ice clouds and their radiative heating was accepted in JAMES.  | 
+| 30 Aug 2022 | Congratulations to Edgardo on receiving a Herbold fellowship from the UA College of Engineering. | 
+| 22 Aug 2022 | We are welcoming Thabo and Edgardo to Tucson, AZ and to the group! |
