@@ -31,4 +31,22 @@ Edgardo is a PhD student in Environmental Engineering, focusing on the radiative
 
 Linda is a senior undergraduate student in Environmental Engineering and will help us begin to assemble an ice crystal nucleation chamber. She will also analyze data from the Arizona Department of Environmental Quality to assess changes in low-level aerosol loadings in the Tucson area before and after storm passage. Linda is originally from Austin, Texas and minoring in Film.
 
+**Group Principles**
+
+Our research group is guided by the following principles:
+
+1.	Curiosity – Questions, especially fundamental ones, are always welcome, and we do not dismiss new ideas without thought. Question-asking and openness to different perspectives are the ways in which we grow intellectually.
+
+2.	Inclusivity – Building a group of people with different backgrounds is important to us. Diversity of thought and experience not only generate more interesting ideas but also help us to circumvent confirmation bias.*
+
+3.	Collaboration – Along similar lines, our culture is collaborative not competitive. Asking for help and feedback is strongly encouraged when others’ time is respected. We actively seek to work with others and give credit where credit is due.
+
+4.	Communication – We want to be communicative about our scientific results – within the immediate group, the larger scientific community, and the broader public – but also when interpersonal conflicts arise.
+
+5.	Rest - Research is a creative endeavor, and rest is crucial to foster this creativity. It is important to take time off. Prioritization and saying no respectfully are important skills to learn.
+
+6.	Reproducibility – Especially as the volume of research output expands, it is essential that our results be reproducible. We value high-quality work performed more slowly and methodically over high-quantity work performed more quickly and sloppily.
+
+\* *“If you put individuals together in the right way, such that some individuals can use their reasoning powers to disconfirm the claims of others, and all individuals feel some common bond or shared fate that allows them to interact civilly, you can create a group that ends up producing good reasoning .... This is why it’s so important to have intellectual and ideological diversity within any group or institution whose goal is to find truth.”*
+Jonathan Haidt, The Righteous Mind
 
