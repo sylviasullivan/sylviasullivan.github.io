@@ -25,17 +25,17 @@ Thabo is a PhD student in Hydrology & Atmospheric Sciences, focusing on the effe
 
 Edgardo is a PhD student in Environmental Engineering, focusing on the radiative effect of cloud ice optics schemes in storm-resolving simulations. He has been working as an Associate Researcher in the Antarctic Research Group in the Department of Physics at the University of Santiago of Chile with interest in climate change impacts in Chile and Antarctica. He received his Bachelors in Applied Physics in 2015 and his Diplom in Physics Engineering in 2021, both from the University of Santiago of Chile. Over the last 6 years, Edgardo has been involved in a series of field campaigns from the Atacama Desert in northern Chile to Union Glacier in Antarctica, with studies focused mainly on UV radiation, the Antarctic ozone hole and radiative effects of clouds on the Antarctic Peninsula. Edgardo spends most of his free time playing music and listening to different styles of music, jazz being one of his favorites.
 
-![](linda.jpg){:class="float-left"}{:height='270'}
-
-**Undergraduate Student - Linda Engelman**
-
-Linda is a senior undergraduate student in Environmental Engineering and will help us begin to assemble an ice crystal nucleation chamber. She will also analyze data from the Arizona Department of Environmental Quality to assess changes in low-level aerosol loadings in the Tucson area before and after storm passage. Linda is originally from Austin, Texas and minoring in Film.
-
 ![](tanmay.jpeg){:class="float-left"}{:height='270'}
 
 **Undergraduate Student - Tanmay Agrawal**
 
 Tanmay is a senior undergraduate student majoring in Computer Science with a minor in Entrepreneurship and Economics and will help us in developing intuitive, virtual-reality based graphics of cloud and storm systems as a tool to provide increasing visibility and utility for this data. Tanmay is originally from India, and enjoys learning new things. In addition to his technical pursuits, he has a keen interest in discovering novel ideas, especially related to the social and political dimensions of our everyday existence. He relishes examining the broader context of all things.
+
+![](linda.jpg){:class="float-left"}{:height='270'}
+
+**Undergraduate Student - Linda Engelman**
+
+Linda is a senior undergraduate student in Environmental Engineering and will help us begin to assemble an ice crystal nucleation chamber. She will also analyze data from the Arizona Department of Environmental Quality to assess changes in low-level aerosol loadings in the Tucson area before and after storm passage. Linda is originally from Austin, Texas and minoring in Film.
 
 ---
 **Group Principles**
