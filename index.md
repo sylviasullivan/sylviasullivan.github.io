@@ -17,5 +17,6 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 15 March 2023 | Edgardo and Thabo's abstracts have been accepted to the International Union of Geodesy and Geophysics in Berlin this summer. |
 | 10 Nov 2022 | We received $13K of funding from UA Research, Impact, and Innovation to facilitate collaboration with those at KIT in 2023. |
 | 20 Oct 2022  | Sylvia's article on trajectory tracking of ice clouds and their radiative heating was accepted in JAMES.  | 
+| 15 Sept 2022 | Linda Engelman is joining the group as our first undergraduate researcher!
 | 30 Aug 2022 | Congratulations to Edgardo on receiving a Herbold fellowship from the UA College of Engineering. | 
 | 22 Aug 2022 | We are welcoming Thabo and Edgardo to Tucson, AZ and to the group! |
