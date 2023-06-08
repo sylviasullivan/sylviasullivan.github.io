@@ -8,27 +8,29 @@ description: Department of Chemical and Environmental Engineering, University of
 
 ![](Files/CRH-figure.png){:class="float-right"}{:height='330'}
 
-In a series of storm-resolving (2.5-km) simulations over the Asian monsoon region, we found a strong effect of ice microphysical ``switches" (factors like ice crystal size and whether the model tracks crystal number along with ice mass) on the cloud-radiative heating rates and outgoing longwave radiation. We wrote a blog post for Nature Communities about the study [here](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper), and the Karlsruhe Institute of Technology and University of Vienna wrote press releases [here](https://www.kit.edu/kit/29383.php) and [here](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560). We have also generated trajectory output from a new module in ICON as a means of comparing microphysics schemes with microphysical-dynamic feedbacks constrained. This work is under review and in preparation.
+We are broadly interested in the impact of ice clouds on the terrestrial radiative budget. How does the presence of cirrus change infrared radiative fluxes exiting at the top of the atmosphere? How does the presence of cirrus change radiative heating within the atmosphere, and hence the temperature gradients that drive circulation? Most recently, in a series of simulations with a range of horizontal grid spacings and microphysics and convection schemes, we find in [this study](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-109/) that the combination of microphysical and convective representation is more influential on upper-tropospheric cloud-radiative heating rates than the grid spacings. These simulations are centered over the North Atlantic region, whereas our other studies of cloud-radiative heating focus on the strong ice microphysical control in the tropics. Edgardo is building upon this research theme by investigating the effect of ice optics schemes on this upper-tropospheric cloud-radiative heating.
 
 **Publications**
 
-S. C. Sullivan, A. Voigt, N. Albern, E. Bala, C. Braun, A. Choudhary, J. Hörner, B. Keshtgar, H. Lentink, and G. Papavasileiou (2023). Model dependencies of cloud-radiative heating over the North Atlantic. *[in preparation for J. Geophys. Res.]*
-
 S. C. Sullivan, A. Voigt, C. Rolf, and M. Krämer (2023). Evaluation of simulated upper-tropospheric lower-stratospheric properties over the Asian monsoon region. *[in preparation for Geophys. Res. Lett.]*
+
+S. C. Sullivan, B. Keshtgar, N. Albern, E. Bala, C. Braun, A. Choudhary, J. Hörner, B. Keshtgar, H. Lentink, and G. Papavasileiou (2023). How does cloud-radiative heating over the North Atlantic change with grid spacing, convective parameterization, and microphysics scheme? *[Accepted at Geosci. Model Devel.]*
 
 S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). **[A Lagrangian perspective of microphysical impact on ice cloud evolution and radiative heating](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003226)** *J. Adv. Model Earth Sys.* doi: 10.1029/2022MS003226.
 
 S. C. Sullivan and A. Voigt (2021). **[Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics](https://www.nature.com/articles/s43247-021-00206-7#MOESM1)** *Comm. Earth & Env.* 2 (137) doi: 10.1038/s43247-021-00206-7.
 
-## Satellite climatologies of mesoscale convective systems
+S. C. Sullivan and A. Voigt (2021). [Comms Earth & Env blog post](https://sustainabilitycommunity.springernature.com/posts/how-ice-crystals-heat-the-atmosphere?channel_id=behind-the-paper) /// [KIT press release](https://www.kit.edu/kit/29383.php) /// [Uni Wien press release](https://fgga.univie.ac.at/forschung/forschungsportal-detailansicht/news/wie-eiswolken-die-atmosphaere-aufheizen/?tx_news_pi1%5bcontroller%5d=News&tx_news_pi1%5baction%5d=detail&cHash=591b989b86849d39d4966129bd475560)
+
+## Precipitation statistics and satellite climatologies of mesoscale convective systems
 
 ![](Files/MCS-clim.png){:class="float-right"}{:height='300'}
 
-ISCCP convective tracking data between 1983 and 2008 was collocated with a precipitation product (MSWEP) and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). We used simple information entropy metrics to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>) and most recently used the surface energy and vertical momentum budgets to explain warm-cold phase differences in the distribution of precipitation intensities.
+Mesoscale convective systems (MCSs) are large thunderstorms organized over hundreds of kilometers, responsible for the majority of intense rainfall throughout the tropics. We are interested in the precipitation from MCSs---how it varies with environmental conditions, modes of tropical variability, and between simulations and observations. A few years ago now, we built a collocated dataset of ISCCP convective tracking data (1983-2008), precipitation rates (MSWEP), and synoptic conditions (ERA-Interim). From these datasets, we generated climatologies of organized convective structure, their associated precipitation, and environmental conditions in the warm and cold phases of El Niño (<a href="/codes-and-slides">MCS collocation scripts</a>). Simple information entropy metrics were used to quantify proximity of convective occurrence (<a href="/codes-and-slides">Entropy algorithm</a>), and most recently the surface energy and vertical momentum budgets were used to explain warm-cold phase differences in the distribution of precipitation intensities. This research theme continues using output of radiative-convective equilibrium simulations and cloud-resolving simulations. For example, Thabo is evaluating precipitation efficiencies from the DYAMOND intercomparison output. 
 
 **Publications**
 
-S. Chakraborty, S. C. Sullivan, and Z. Feng (2022). An Overview of Mesoscale Convective Systems: Global Climatology, Satellite Observations, and Modelling Strategies. *[under review at Geophys. Monog. Series.]*
+S. Chakraborty, S. C. Sullivan, and Z. Feng (2022). An Overview of Mesoscale Convective Systems: Global Climatology, Satellite Observations, and Modelling Strategies. *[Accepted at Geophys. Monog. Series.]*
 
 S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **[Change in tropical precipitation intensity with El Niño warming](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087663)** *Geophys. Res. Lett.* 47 (14) e2020GL087663.
 
