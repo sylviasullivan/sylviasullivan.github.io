@@ -11,8 +11,9 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 # Latest News
 
-| 31 May 2023 | Our newest member, Juliana Mejia, was awarded the George and Dixie Shirley Graduate Fellowship for environmental engineers. |
+| 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week.
 |:--|:--|
+| 31 May 2023 | Our newest member, Juliana Mejia, was awarded the George and Dixie Shirley Graduate Fellowship for environmental engineers. |
 | 15 May 2023 | We are welcoming Tanmay Agrawal to our group to work on visualization of atmospheric model output. |
 | 14 May 2023 | Sylvia's article on cloud-radiative heating over the North Atlantic was accepted in Geoscientific Model Developments.
 | 27 April 2023 | Sylvia visited the Geophysical Fluid Dynamics Laboratory in Princeton for a seminar on cloud-radiative heating rates. |
