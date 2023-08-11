@@ -2,7 +2,7 @@
 layout: default
 title: Lab for Multiscale Cloud Modeling and Experimentation
 image: Files/cloud-background.jpg
-description: Department of Chemical and Environmental Engineering, Department of Hydrology and Atmospheric Sciences, University of Arizona
+description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
 # Research
