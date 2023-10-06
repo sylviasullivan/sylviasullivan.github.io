@@ -4,6 +4,7 @@ title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
+![](202309-LMCME-group-photo.jpg){:class="float-center"}{:height='300'}
 
 ![](sylvia.jpg){:class="float-left"}{:height='300'}
 
