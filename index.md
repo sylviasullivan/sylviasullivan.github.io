@@ -11,7 +11,7 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 # Latest News
 
-| 1 October 2023 | We have been awarded an NCAR Collaborative Opportunity for Research Engagement award.
+| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement.
 |:--|:--|
 | 1 August 2023 | Welcome to Juliana Mejía, our newest member!
 | 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week.
