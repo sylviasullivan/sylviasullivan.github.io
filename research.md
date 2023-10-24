@@ -14,7 +14,7 @@ We are broadly interested in the impact of ice clouds on the terrestrial radiati
 
 S. C. Sullivan, A. Voigt, C. Rolf, and M. Krämer (2023). Evaluation of simulated upper-tropospheric lower-stratospheric properties over the Asian monsoon region. *[in preparation for Geophys. Res. Lett.]*
 
-S. C. Sullivan, B. Keshtgar, N. Albern, E. Bala, C. Braun, A. Choudhary, J. Hörner, B. Keshtgar, H. Lentink, and G. Papavasileiou (2023). How does cloud-radiative heating over the North Atlantic change with grid spacing, convective parameterization, and microphysics scheme? *[Accepted at Geosci. Model Devel.]*
+S. C. Sullivan, B. Keshtgar, N. Albern, E. Bala, C. Braun, A. Choudhary, J. Hörner, B. Keshtgar, H. Lentink, and G. Papavasileiou (2023). **[How does cloud-radiative heating over the North Atlantic change with grid spacing, convective parameterization, and microphysics scheme?](https://gmd.copernicus.org/articles/16/3535/2023/)** *Geosci. Model Devel.* 16 (2): 3535-3551 doi: 10.5194/gmd-16-3535-2023.
 
 S. C. Sullivan, A. Voigt, A. Miltenberger, C. Rolf, and M. Krämer (2022). **[A Lagrangian perspective of microphysical impact on ice cloud evolution and radiative heating](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003226)** *J. Adv. Model Earth Sys.* doi: 10.1029/2022MS003226.
 
@@ -37,6 +37,12 @@ S. C. Sullivan, K. A. Schiro, J. Yin, and P. Gentine (2020). **[Change in tropic
 K. A. Schiro, S. C. Sullivan, Y.-H. Kuo, H. Su, P. Gentine, G. S. Elsaesser, J. H. Jiang, and J. David Neelin (2020). **[Environmental controls on tropical mesoscale convective system precipitation intensity](https://journals.ametsoc.org/jas/article/doi/10.1175/JAS-D-20-0111.1/354632/Environmental-controls-on-tropical-mesoscale)** *J. Atmos. Sci.* doi: 10.1175/JAS-D-20-0111.1
 
 S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The response of tropical organized convection to El Niño Warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031026)** *J. Geophys. Res.* 124 (15) pp. 8481--8500.
+
+## Visualization techniques for clouds \& climate
+
+![](Files/colbg_colref_legendmoved_cropped.png){:class="float-right"}{:height='300'}
+
+We are beginning to explore how visualization techniques can support research on clouds \& climate with support from an NCAR Collaborative Opportunity for Research Engagement (CORE). Atmospheric models are now run at very fine grid spacings, which is both an opportunity and a challenge. We are resolving features necessary to understand clouds and storms but must develop clever ways to extract meaning from large volumes of data. Can visualization inform cloud classifications, teach us about across-scale interactions, or improve our methods for model-observation comparison?
 
 ## Parcel and mesoscale modeling of secondary ice production
 
