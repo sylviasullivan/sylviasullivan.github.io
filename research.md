@@ -42,7 +42,7 @@ S. C. Sullivan, K. A. Schiro, C. A. Stubenrauch, and P. Gentine (2019). **[The r
 
 ![](Files/colbg_colref_legendmoved_cropped.png){:class="float-right"}{:height='300'}
 
-We are beginning to explore how visualization techniques can support research on clouds \& climate with support from an NCAR Collaborative Opportunity for Research Engagement (CORE). Atmospheric models are now run at very fine grid spacings, which is both an opportunity and a challenge. We are resolving features necessary to understand clouds and storms but must develop clever ways to extract meaning from large volumes of data. Can visualization inform cloud classifications, teach us about across-scale interactions, or improve our methods for model-observation comparison?
+We are beginning to explore how visualization techniques can support research on clouds \& climate with support from an NCAR Collaborative Opportunity for Research Engagement (CORE). Atmospheric models are now run at very fine grid spacings, which is both an opportunity and a challenge. We are resolving features necessary to understand clouds and storms but must develop clever ways to extract meaning from large volumes of data. Can visualization inform cloud classifications, teach us about across-scale interactions, or improve our methods for model-observation comparison? (ParaView render courtesy of Devin Bayly and Ben Kruse)
 
 ## Parcel and mesoscale modeling of secondary ice production
 
