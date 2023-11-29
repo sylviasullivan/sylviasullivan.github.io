@@ -11,8 +11,9 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 # Latest News
 
-| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement.
+| 3 October 2023 | We were featured in the [UofA's Information Technology news](https://it.arizona.edu/news/atmospheric-researcher-has-her-head-clouds).
 |:--|:--|
+| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement.
 | 1 August 2023 | Welcome to Juliana Mejía, our newest member!
 | 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week.
 | 31 May 2023 | Our newest member, Juliana Mejía, was awarded the George and Dixie Shirley Graduate Fellowship for environmental engineers. |
