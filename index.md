@@ -11,7 +11,7 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 # Clouds and their Climatic Impacts
 
-Sylvia led the editing of a new volume now available through AGU Geophysical Monographs on _Clouds and their Climatic Impacts_. It is available through [Wiley](https://www.wiley.com/en-us/Clouds+and+Their+Climatic+Impact%3A+Radiation%2C+Circulation%2C+and+Precipitation-p-9781119700319), [Amazon](https://www.amazon.com/Clouds-their-Climatic-Impact-Precipitation/dp/1119700310/ref=sr_1_1?crid=9KB5FH7KEM9Z&keywords=clouds+and+their+climatic+impact&qid=1702921601&sprefix=clouds+and+their+climatic+impac%2Caps%2C299&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d), and [Barnes & Noble](https://www.barnesandnoble.com/w/book/1143372658).
+Sylvia led the editing of a new volume now available through AGU Geophysical Monographs on _Clouds and their Climatic Impacts_. It is available through [Wiley](https://www.wiley.com/en-us/Clouds+and+Their+Climatic+Impact%3A+Radiation%2C+Circulation%2C+and+Precipitation-p-9781119700319), [Amazon](https://www.amazon.com/Clouds-their-Climatic-Impact-Precipitation/dp/1119700310/ref=sr_1_1?crid=9KB5FH7KEM9Z&keywords=clouds+and+their+climatic+impact&qid=1702921601&sprefix=clouds+and+their+climatic+impac%2Caps%2C299&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d), and [Barnes & Noble](https://www.barnesandnoble.com/w/book/1143372658). A short piece was published on it [here](https://eos.org/editors-vox/the-complexity-of-clouds-circulation-and-climate) by Editors' Vox blog at AGU.
 
 # Latest News
 
