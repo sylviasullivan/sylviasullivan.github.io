@@ -9,6 +9,10 @@ description: Department of Chemical and Environmental Engineering, University of
 
 We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. At the moment, we are focused on mesoscale convective systems as a specific instance of this atmospheric scale problem. Mesoscale convective systems are aggregations of thunderstorms that extend over hundreds of kilometers and bring the majority of extreme rainfall throughout the tropics. Their intermediate size in the spectrum of atmospheric phenomena means that they are influenced by both the smallest scales (like ice crystal or droplet formation, called cloud microphysics) and the largest scales (via circulation patterns like the Hadley cell). We are working to understand the smallest scales through benchtop experimentation and idealized parcel modeling and the largest scales through high-resolution storm-resolving simulations. 
 
+# Clouds and their Climatic Impacts
+
+Sylvia led the editing of a new volume available since December 2023 through AGU Geophysical Monographs on _Clouds and their Climatic Impacts_ with Corinna Hoose at the Karlsruhe Institute of Technology (KIT). It is available through [Wiley](https://www.wiley.com/en-us/Clouds+and+Their+Climatic+Impact%3A+Radiation%2C+Circulation%2C+and+Precipitation-p-9781119700319), [Amazon](https://www.amazon.com/Clouds-their-Climatic-Impact-Precipitation/dp/1119700310/ref=sr_1_1?crid=9KB5FH7KEM9Z&keywords=clouds+and+their+climatic+impact&qid=1702921601&sprefix=clouds+and+their+climatic+impac%2Caps%2C299&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d), and [Barnes & Noble](https://www.barnesandnoble.com/w/book/1143372658). A short piece was published on it [here](https://eos.org/editors-vox/the-complexity-of-clouds-circulation-and-climate) by Editors' Vox blog at AGU, as well as an editorial from KIT [here](https://www.imk-tro.kit.edu/12521.php).
+
 # Latest News
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
 |:--|:--|
@@ -29,8 +33,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 15 Sept 2022 | Linda Engelman is joining the group as our first undergraduate researcher!
 | 30 Aug 2022 | Congratulations to Edgardo on receiving a Herbold fellowship from the UA College of Engineering. | 
 | 22 Aug 2022 | We are welcoming Thabo Makgoale and Edgardo Sepúlveda to Tucson, AZ and to the group! |
-
-# Clouds and their Climatic Impacts
-
-Sylvia led the editing of a new volume available since December 2023 through AGU Geophysical Monographs on _Clouds and their Climatic Impacts_ with Corinna Hoose at the Karlsruhe Institute of Technology (KIT). It is available through [Wiley](https://www.wiley.com/en-us/Clouds+and+Their+Climatic+Impact%3A+Radiation%2C+Circulation%2C+and+Precipitation-p-9781119700319), [Amazon](https://www.amazon.com/Clouds-their-Climatic-Impact-Precipitation/dp/1119700310/ref=sr_1_1?crid=9KB5FH7KEM9Z&keywords=clouds+and+their+climatic+impact&qid=1702921601&sprefix=clouds+and+their+climatic+impac%2Caps%2C299&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d), and [Barnes & Noble](https://www.barnesandnoble.com/w/book/1143372658). A short piece was published on it [here](https://eos.org/editors-vox/the-complexity-of-clouds-circulation-and-climate) by Editors' Vox blog at AGU, as well as an editorial from KIT [here](https://www.imk-tro.kit.edu/12521.php).
-
