@@ -16,13 +16,13 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 # Latest News
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
 |:--|:--|
-| 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society.
-| 13 December 2023 | Edgardo and Thabo are presenting at the 2023 Annual Meeting of the American Geophysical Union in San Francisco!
-| 6 December 2023 | Sylvia is visiting Lund University for a seminar and thesis defense.
-| 3 October 2023 | We were featured in the [UofA's Information Technology news](https://it.arizona.edu/news/atmospheric-researcher-has-her-head-clouds).
-| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement (overviews [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards) and [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/interactive-graphics-and-vr)).
-| 1 August 2023 | Welcome to Juliana Mejía, our newest member!
-| 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week.
+| 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society. |
+| 13 December 2023 | Edgardo and Thabo are presenting at the 2023 Annual Meeting of the American Geophysical Union in San Francisco! |
+| 6 December 2023 | Sylvia is visiting Lund University for a seminar and thesis defense. |
+| 3 October 2023 | We were featured in the [UofA's Information Technology news](https://it.arizona.edu/news/atmospheric-researcher-has-her-head-clouds). |
+| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement (overviews [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards) and [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/interactive-graphics-and-vr)). |
+| 1 August 2023 | Welcome to Juliana Mejía, our newest member! |
+| 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week. |
 | 31 May 2023 | Our newest member, Juliana Mejía, was awarded the George and Dixie Shirley Graduate Fellowship for environmental engineers. |
 | 15 May 2023 | We are welcoming Tanmay Agrawal to our group to work on visualization of atmospheric model output. |
 | 14 May 2023 | Sylvia's article on cloud-radiative heating over the North Atlantic was accepted in Geoscientific Model Developments.
