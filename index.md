@@ -18,6 +18,7 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 | 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference in Kuala Lumpur. |
 |:-----------|:------|
 | 22 May 2024 | Sylvia and Edgardo have been awarded funding through the Salt River Project to study aerosol impacts on solar forecasting for photovoltaics. |
+| 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively!
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
 | 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society. |
 | 13 December 2023 | Edgardo and Thabo are presenting at the 2023 Annual Meeting of the American Geophysical Union in San Francisco! |
