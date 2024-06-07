@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Lab for Multiscale Cloud Modeling and Experimentation
+title: Lab for Multiscale Atmospheric Modeling and Experimentation
 image: Files/cloud-background.jpg
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
 # Research
 
-We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. At the moment, we are focused on mesoscale convective systems as a specific instance of this atmospheric scale problem. Mesoscale convective systems are aggregations of thunderstorms that extend over hundreds of kilometers and bring the majority of extreme rainfall throughout the tropics. Their intermediate size in the spectrum of atmospheric phenomena means that they are influenced by both the smallest scales (like ice crystal or droplet formation, called cloud microphysics) and the largest scales (via circulation patterns like the Hadley cell). We are working to understand the smallest scales through benchtop experimentation and idealized parcel modeling and the largest scales through high-resolution storm-resolving simulations. 
+We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
 
 # Clouds and their Climatic Impacts
 
