@@ -30,20 +30,16 @@ Edgardo is a Ph.D. student in Environmental Engineering, focusing on the radiati
 
 Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will help build up our lab space, characterizing ice nucleation ability of various soils and desert aerosols and generating seed crystals for optical characterization. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
 
-![](tanmay.jpeg){:class="float-left"}{:height='270'}
+--
 
-**Undergraduate Student - Tanmay Agrawal**
+## Former Group Members
 
-Tanmay is a senior undergraduate student majoring in Computer Science with a minor in Entrepreneurship and Economics and will help us in developing intuitive, virtual-reality based graphics of cloud and storm systems as a tool to provide increasing visibility and utility for this data. Tanmay is originally from India, and enjoys learning new things. In addition to his technical pursuits, he has a keen interest in discovering novel ideas, especially related to the social and political dimensions of our everyday existence. He relishes examining the broader context of all things.
+**Undergraduate Student - Tanmay Agrawal** - Master's Student in Computer Science at the University of Arizona
 
-![](linda.jpg){:class="float-left"}{:height='270'}
+**Undergraduate Student - Linda Engelman** - Job searching!
 
-**Undergraduate Student - Linda Engelman**
-
-Linda is a senior undergraduate student in Environmental Engineering and will help us begin to assemble an ice crystal nucleation chamber. She will also analyze data from the Arizona Department of Environmental Quality to assess changes in low-level aerosol loadings in the Tucson area before and after storm passage. Linda is originally from Austin, Texas and minoring in Film.
-
----
-**Group Principles**
+--
+## Group Principles
 
 Our research group is guided by the following principles:
 
