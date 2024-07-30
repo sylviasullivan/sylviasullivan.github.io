@@ -34,9 +34,9 @@ Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will
 
 ## Former Group Members
 
-**Undergraduate Student - Tanmay Agrawal** - Master's Student in Computer Science at the University of Arizona
+**Undergraduate Student - Linda Engelman** - Environmental Engineer at Baxter & Woodman, Austin, TX
 
-**Undergraduate Student - Linda Engelman** - Job searching!
+**Undergraduate Student - Tanmay Agrawal** - Master's Student in Computer Science at the University of Arizona
 
 --
 ## Group Principles
