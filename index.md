@@ -15,8 +15,10 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference in Kuala Lumpur. |
+| 2 August 2024 | Congratulations to Thabo on receiving a Future Investigators in NASA Earth and Space Science and Technology fellowship! 
 |:-----------|:------|
+| 5 August 2024 | Thabo is at the NASA Climate Summer School in Pasadena, CA. |
+| 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference in Kuala Lumpur. |
 | 22 May 2024 | Sylvia and Edgardo have been awarded funding through the Salt River Project to study aerosol impacts on solar forecasting for photovoltaics. |
 | 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively!
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
@@ -27,4 +29,3 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 | 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement (overviews [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards) and [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/interactive-graphics-and-vr)). |
 | 1 August 2023 | Welcome to Juliana Mejía, our newest member! |
 | 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week. |
-| 31 May 2023 | Our newest member, Juliana Mejía, was awarded the George and Dixie Shirley Graduate Fellowship for environmental engineers. |
