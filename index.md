@@ -15,17 +15,17 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 2 August 2024 | Congratulations to Thabo on receiving a Future Investigators in NASA Earth and Space Science and Technology fellowship! 
+| 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
 |:-----------|:------|
+| 3 September 2024 | Juliana is in Kuala Lumpur, Malayasia for the International Global Atmospheric Chemistry conference. |
+| 26 August 2024 | Edgardo gave a seminar for the International Commission on Clouds & Precipitation. |
+| 2 August 2024 | Congratulations to Thabo on receiving a Future Investigators in NASA Earth and Space Science and Technology fellowship! 
 | 5 August 2024 | Thabo is at the NASA Climate Summer School in Pasadena, CA. |
-| 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference in Kuala Lumpur. |
+| 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference this fall. |
 | 22 May 2024 | Sylvia and Edgardo have been awarded funding through the Salt River Project to study aerosol impacts on solar forecasting for photovoltaics. |
-| 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively!
+| 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively! |
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
 | 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society. |
 | 13 December 2023 | Edgardo and Thabo are presenting at the 2023 Annual Meeting of the American Geophysical Union in San Francisco! |
 | 6 December 2023 | Sylvia is visiting Lund University for a seminar and thesis defense. |
 | 3 October 2023 | We were featured in the [UofA's Information Technology news](https://it.arizona.edu/news/atmospheric-researcher-has-her-head-clouds). |
-| 1 October 2023 | We have been awarded funding from the NCAR Collaborative Opportunity for Research Engagement (overviews [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards) and [here](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/interactive-graphics-and-vr)). |
-| 1 August 2023 | Welcome to Juliana Mejía, our newest member! |
-| 6 July 2023 | Edgardo is visiting our collaborators in Karlsruhe and will travel to the IUGG conference in Berlin next week. |
