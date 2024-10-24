@@ -15,8 +15,10 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
+| 21 October 2024 | Our group will support PI Dr. Meredith Kupinski in a [NASA Instrument Incubator Project](https://esto.nasa.gov/project-selections-for-iip-23/#Kupinski) to build an infrared polarimeter.
 |:-----------|:------|
+| 2 October 2024 | Sylvia shared some of our recent results in a virtual seminar with those at NASA Goddard's Climate and Radiation Laboratory.
+| 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
 | 3 September 2024 | Juliana is in Kuala Lumpur, Malayasia for the International Global Atmospheric Chemistry conference. |
 | 26 August 2024 | Edgardo gave a seminar for the International Commission on Clouds & Precipitation. |
 | 2 August 2024 | Congratulations to Thabo on receiving a Future Investigators in NASA Earth and Space Science and Technology fellowship! 
@@ -26,6 +28,3 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 | 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively! |
 | 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
 | 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society. |
-| 13 December 2023 | Edgardo and Thabo are presenting at the 2023 Annual Meeting of the American Geophysical Union in San Francisco! |
-| 6 December 2023 | Sylvia is visiting Lund University for a seminar and thesis defense. |
-| 3 October 2023 | We were featured in the [UofA's Information Technology news](https://it.arizona.edu/news/atmospheric-researcher-has-her-head-clouds). |
