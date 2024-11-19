@@ -15,8 +15,9 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 21 October 2024 | Our group will support PI Dr. Meredith Kupinski in a [NASA Instrument Incubator Project](https://esto.nasa.gov/project-selections-for-iip-23/#Kupinski) to build an infrared polarimeter.
+| 19 November 2024 | Our NASA IIP project received some additional press from the UA College of Engineering news [here](https://news.engineering.arizona.edu/news/45m-nasa-award-propels-climate-change-technology)!
 |:-----------|:------|
+| 21 October 2024 | Our group will support PI Dr. Meredith Kupinski in a [NASA Instrument Incubator Project](https://esto.nasa.gov/project-selections-for-iip-23/#Kupinski) to build an infrared polarimeter.
 | 2 October 2024 | Sylvia shared some of our recent results in a virtual seminar with those at NASA Goddard's Climate and Radiation Laboratory.
 | 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
 | 3 September 2024 | Juliana is in Kuala Lumpur, Malayasia for the International Global Atmospheric Chemistry conference. |
