@@ -30,7 +30,7 @@ Edgardo is a Ph.D. student in Environmental Engineering, focusing on the radiati
 
 Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will help build up our lab space, characterizing ice nucleation ability of various soils and desert aerosols and generating seed crystals for optical characterization. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
 
-![](akshat-headshot.jpg}{:class="float-left"}{:height='300'}
+![](akshat-headshot.jpg){:class="float-left"}{:height='300'}
 
 **Undergraduate Student - Akshat Singh**
 
