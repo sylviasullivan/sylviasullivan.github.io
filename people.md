@@ -30,11 +30,17 @@ Edgardo is a Ph.D. student in Environmental Engineering, focusing on the radiati
 
 Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will help build up our lab space, characterizing ice nucleation ability of various soils and desert aerosols and generating seed crystals for optical characterization. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
 
-![](akshat-headshot.jpg){:class="float-left"}{:height='300'}
+![](akshat-headshot.jpg){:class="float-left"}{:height='250'}
 
 **Undergraduate Student - Akshat Singh**
 
 Akshat is an undergraduate junior majoring in Computer Science. He will be working on a project exploring GPU-accelerated visualization techniques for high-resolution atmospheric model outputs using ParaView and NCAR VAPOR. His work will also involve creating animations and interactive Python widgets to analyze and present atmospheric data effectively. In his free time, Akshat enjoys swimming and exploring advancements in AI and computational sciences.
+
+![](hannah-headshot.jpg){:class="float-left"}{:height='250'}
+
+**Undergraduate Student - Hannah Golden**
+
+Hannah is an undergraduate student majoring in Chemical Engineering. She will be helping to construct filter samplers for installation around the UofA and elsewhere to monitor atmospheric dust loadings and measure the ice-nucleating efficiency of that airborne dust. In her free time, Hannah loves hiking, reading and traveling.
 
 --
 
