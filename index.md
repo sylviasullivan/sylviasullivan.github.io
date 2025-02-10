@@ -15,8 +15,11 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 19 November 2024 | Our NASA IIP project received some additional press from the UA College of Engineering news [here](https://news.engineering.arizona.edu/news/45m-nasa-award-propels-climate-change-technology)!
+| 10 February 2025 | Congratulations to Edgardo on receiving 1st Place in the Oral Presentation Category of student awards for the AMS Symposium on Cloud Physics!
 |:-----------|:------|
+| 13 January 2025 | Edgardo and Sylvia are in New Orleans to present at the AMS Annual Meeting.
+| 9 December 2024 | Juliana and Thabo are in Washington D.C. to present at the AGU Annual Meeting.
+| 19 November 2024 | Our NASA IIP project received some additional press from the UA College of Engineering news [here](https://news.engineering.arizona.edu/news/45m-nasa-award-propels-climate-change-technology)!
 | 21 October 2024 | Our group will support PI Dr. Meredith Kupinski in a [NASA Instrument Incubator Project](https://esto.nasa.gov/project-selections-for-iip-23/#Kupinski) to build an infrared polarimeter.
 | 2 October 2024 | Sylvia shared some of our recent results in a virtual seminar with those at NASA Goddard's Climate and Radiation Laboratory.
 | 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
@@ -26,6 +29,3 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 | 5 August 2024 | Thabo is at the NASA Climate Summer School in Pasadena, CA. |
 | 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference this fall. |
 | 22 May 2024 | Sylvia and Edgardo have been awarded funding through the Salt River Project to study aerosol impacts on solar forecasting for photovoltaics. |
-| 11 May 2024 | Linda and Tanmay have graduated with their Bachelors of Science in Environmental Engineering and Computer Science, respectively! |
-| 19 March 2024 | Thabo won Best Poster Presentation at the Hydrology & Atmospheric Science Department's El Día del Agua y la Atmósfera. |
-| 29 January 2024 | Sylvia is in Baltimore to present at the 2024 Annual Meeting of the American Meteorological Society. |
