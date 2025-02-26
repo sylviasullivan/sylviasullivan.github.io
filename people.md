@@ -30,19 +30,19 @@ Edgardo is a Ph.D. student in Environmental Engineering, focusing on the radiati
 
 Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will help build up our lab space, characterizing ice nucleation ability of various soils and desert aerosols and generating seed crystals for optical characterization. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
 
-![](akshat-headshot.jpg){:class="float-left"}{:height='250'}
+![](akshat-headshot.jpg){:class="float-left"}{:height='225'}
 
 **Undergraduate Student - Akshat Singh**
 
 Akshat is an undergraduate junior majoring in Computer Science. He will be working on a project exploring GPU-accelerated visualization techniques for high-resolution atmospheric model outputs using ParaView and NCAR VAPOR. His work will also involve creating animations and interactive Python widgets to analyze and present atmospheric data effectively. In his free time, Akshat enjoys swimming and exploring advancements in AI and computational sciences.
 
-![](gracee.jpg){:class="float-left"}{:height='250'}
+![](gracee.jpg){:class="float-left"}{:height='225'}
 
 **Undergraduate Student - Gracee Spatz**
 
 Gracee is an undergraduate junior majoring in Chemical Engineering. She will be helping to construct filter samplers for installation around the U of A and elsewhere to monitor atmospheric dust loadings and measure the ice-nucleating efficiency of the airborne dust. In her free time, she enjoys leading club meetings, building Lego sets, going thrifting and to concerts, and learning how to crochet. 
 
-![](hannah-headshot.png){:class="float-left"}{:height='250'}
+![](hannah-headshot.png){:class="float-left"}{:height='225'}
 
 **Undergraduate Student - Hannah Golden**
 
