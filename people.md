@@ -36,7 +36,7 @@ Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She will
 
 Akshat is an undergraduate junior majoring in Computer Science. He will be working on a project exploring GPU-accelerated visualization techniques for high-resolution atmospheric model outputs using ParaView and NCAR VAPOR. His work will also involve creating animations and interactive Python widgets to analyze and present atmospheric data effectively. In his free time, Akshat enjoys swimming and exploring advancements in AI and computational sciences.
 
-![](gracee.jpg){:class="float-left"}{:height='225'}
+![](gracee.JPG){:class="float-left"}{:height='225'}
 
 **Undergraduate Student - Gracee Spatz**
 
