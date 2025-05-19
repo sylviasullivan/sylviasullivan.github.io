@@ -15,8 +15,13 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 10 February 2025 | Congratulations to Edgardo on receiving 1st Place in the Oral Presentation Category of student awards for the AMS Symposium on Cloud Physics!
+| 21 May 2025 | Sylvia is flying to Austria to begin an Ida Pfeiffer Professorship this summer at the University of Vienna.
 |:-----------|:------|
+| 15 May 2025 | Juliana is giving an oral presentation at the Colombia Congress and International Conference on Air Quality, Climate Change, and Public Health ([CASAP](https://casap.science/en/home/)).
+| 1 May 2025 | Gracee and Hannah shared their work on design of INP filter samplers and their research on dust control technologies in completion of CHEE 392 this semester.
+| 24 April 2025 | Edgardo's article on optical sensitivities of cloud-radiative heating. has been accepted in Atmospheric Chemistry & Physics.
+| 26 March 2025 | Thabo won 2nd Place in the Poster Presentation Category for the HAS Department's El Dia Research Symposium.
+| 10 February 2025 | Congratulations to Edgardo on receiving 1st Place in the Oral Presentation Category of student awards for the AMS Symposium on Cloud Physics!
 | 13 January 2025 | Edgardo and Sylvia are in New Orleans to present at the AMS Annual Meeting.
 | 9 December 2024 | Juliana and Thabo are in Washington D.C. to present at the AGU Annual Meeting.
 | 19 November 2024 | Our NASA IIP project received some additional press from the UA College of Engineering news [here](https://news.engineering.arizona.edu/news/45m-nasa-award-propels-climate-change-technology)!
@@ -24,8 +29,3 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 | 2 October 2024 | Sylvia shared some of our recent results in a virtual seminar with those at NASA Goddard's Climate and Radiation Laboratory.
 | 6 September 2024 | Sylvia gave a seminar in the UA Department of Physics. |
 | 3 September 2024 | Juliana is in Kuala Lumpur, Malayasia for the International Global Atmospheric Chemistry conference. |
-| 26 August 2024 | Edgardo gave a seminar for the International Commission on Clouds & Precipitation. |
-| 2 August 2024 | Congratulations to Thabo on receiving a Future Investigators in NASA Earth and Space Science and Technology fellowship! 
-| 5 August 2024 | Thabo is at the NASA Climate Summer School in Pasadena, CA. |
-| 4 June 2024 | Juliana has been admitted and received travel support to attend the IGAC Early Career Short Course and conference this fall. |
-| 22 May 2024 | Sylvia and Edgardo have been awarded funding through the Salt River Project to study aerosol impacts on solar forecasting for photovoltaics. |
