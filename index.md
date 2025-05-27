@@ -15,7 +15,7 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 # Latest News
 
-| 21 May 2025 | Sylvia is flying to Austria to begin an Ida Pfeiffer Professorship this summer at the University of Vienna.
+| 21 May 2025 | Sylvia is flying to Austria to begin an [Ida Pfeiffer Professorship](https://fgga.univie.ac.at/sylviasullivan/) this summer at the University of Vienna.
 |:-----------|:------|
 | 15 May 2025 | Juliana is giving an oral presentation at the Colombia Congress and International Conference on Air Quality, Climate Change, and Public Health ([CASAP](https://casap.science/en/home/)).
 | 1 May 2025 | Gracee and Hannah shared their work on design of INP filter samplers and their research on dust control technologies in completion of CHEE 392 this semester.
