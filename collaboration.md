@@ -4,14 +4,9 @@ title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
-## Clouds and their Climatic Impacts: Radiation, Circulation, and Precipitation
+# Clouds and their Climatic Impacts
 
-Over the past three and a half years, I have been organizing an AGU / Wiley Geophysical Monograph on clouds and climate, along with Corinna Hoose. We have assembled a great group of authors and structured the contents around themes on radiation, circulation, and precipitation. The volume should appear in the latter half of 2023. We are working through final copyediting now.
-
-**[Monograph table of contents](/Files/git-toc-v3.pdf)**
-
-The introductory chapter presents analyses of the scientific literautre on clouds and climate ("science of science") and is available on Essoar:
-**[Science of cloud and climate science: An analysis of the literature over the past 50 years](https://www.essoar.org/doi/abs/10.1002/essoar.10510355.1)**
+Sylvia led the editing of a new volume available since December 2023 through AGU Geophysical Monographs on _Clouds and their Climatic Impacts_ with Corinna Hoose at the Karlsruhe Institute of Technology (KIT). It is available through [Wiley](https://www.wiley.com/en-us/Clouds+and+Their+Climatic+Impact%3A+Radiation%2C+Circulation%2C+and+Precipitation-p-9781119700319), [Amazon](https://www.amazon.com/Clouds-their-Climatic-Impact-Precipitation/dp/1119700310/ref=sr_1_1?crid=9KB5FH7KEM9Z&keywords=clouds+and+their+climatic+impact&qid=1702921601&sprefix=clouds+and+their+climatic+impac%2Caps%2C299&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d), and [Barnes & Noble](https://www.barnesandnoble.com/w/book/1143372658). A short piece was published on it [here](https://eos.org/editors-vox/the-complexity-of-clouds-circulation-and-climate) by Editors' Vox blog at AGU, as well as an editorial from KIT [here](https://www.imk-tro.kit.edu/12521.php).
 
 ## Hydrological studies
 
