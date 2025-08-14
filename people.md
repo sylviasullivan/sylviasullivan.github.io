@@ -18,7 +18,7 @@ Contact: sylvia_at_arizona.edu
 
 **Doctoral Student - Thabo Makgoale**
 
-Thabo is a Ph.D. student in Hydrology & Atmospheric Sciences, focusing on the effect of ice microphysics within tropical mesoscale convective systems using storm-resolving simulations. Mr. Makgoale has been working as a research scientist in Climate Change and Variability for almost 7 years at the South African Weather Services (SAWS). He completed his Bachelors degree in Ocean and Atmospheric Sciences in 2012 and his honours degree in Atmospheric Sciences in 2013, both from the University of Cape Town through the Climate System Analysis Group (CSAG). He completed his Masters degree in Geography and Environmental Management at North-West University (NWU) in 2021 with a thesis investigating the sensitivity of simulated temperatures in climate models to aerosols over southern Africa.
+Thabo is a fourth-year Ph.D. student in Hydrology & Atmospheric Sciences, focusing on the effect of ice microphysics within tropical mesoscale convective systems using storm-resolving simulations. Mr. Makgoale has been working as a research scientist in Climate Change and Variability for almost 7 years at the South African Weather Services (SAWS). He completed his Bachelors degree in Ocean and Atmospheric Sciences in 2012 and his honours degree in Atmospheric Sciences in 2013, both from the University of Cape Town through the Climate System Analysis Group (CSAG). He completed his Masters degree in Geography and Environmental Management at North-West University (NWU) in 2021 with a thesis investigating the sensitivity of simulated temperatures in climate models to aerosols over southern Africa.
 
 Contact: temakgoale_at_arizona.edu
 
@@ -26,7 +26,7 @@ Contact: temakgoale_at_arizona.edu
 
 **Doctoral Student - Edgardo Sepúlveda Araya**
 
-Edgardo is a Ph.D. student in Environmental Engineering, focusing on the radiative effect of cloud ice optics schemes in storm-resolving simulations. He has been working as an Associate Researcher in the Antarctic Research Group in the Department of Physics at the University of Santiago of Chile with interest in climate change impacts in Chile and Antarctica. He received his Bachelors in Applied Physics in 2015 and his Diplom in Physics Engineering in 2021, both from the University of Santiago of Chile. Over the last 6 years, Edgardo has been involved in a series of field campaigns from the Atacama Desert in northern Chile to Union Glacier in Antarctica, with studies focused mainly on UV radiation, the Antarctic ozone hole and radiative effects of clouds on the Antarctic Peninsula. Edgardo spends most of his free time playing music and listening to different styles of music, jazz being one of his favorites.
+Edgardo is a fourth-year Ph.D. student in Environmental Engineering, focusing on the radiative effect of cloud ice optics schemes in storm-resolving simulations. He has been working as an Associate Researcher in the Antarctic Research Group in the Department of Physics at the University of Santiago of Chile with interest in climate change impacts in Chile and Antarctica. He received his Bachelors in Applied Physics in 2015 and his Diplom in Physics Engineering in 2021, both from the University of Santiago of Chile. Over the last 6 years, Edgardo has been involved in a series of field campaigns from the Atacama Desert in northern Chile to Union Glacier in Antarctica, with studies focused mainly on UV radiation, the Antarctic ozone hole and radiative effects of clouds on the Antarctic Peninsula. Edgardo spends most of his free time playing music and listening to different styles of music, jazz being one of his favorites.
 
 Contact: edgardo_at_arizona.edu
 
@@ -34,9 +34,17 @@ Contact: edgardo_at_arizona.edu
 
 **Doctoral Student - Juliana Mejía Sepúlveda**
 
-Juliana will start her Ph.D. in Environmental Engineering in Fall 2023. She is interested in how dust concentrations are changing and affecting regional air quality over the U.S. Southwest. Juliana has also helped build up our lab space, perfoming setup of frozen droplet assays to characterize ice-nucleating ability of local soils and desert aerosol. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
+Juliana is in her third year of the Ph.D. program in Environmental Engineering. She is interested in how dust concentrations are changing and affecting regional air quality over the U.S. Southwest. Juliana has also helped build up our lab space, perfoming setup of frozen droplet assays to characterize ice-nucleating ability of local soils and desert aerosol. Juliana is originally from Colombia and received her Environmental Engineering Bachelor and Masters degree from the University of Antioquia. She joined different projects associated with heterogeneous photocatalysis using titanium dioxide and chemical characterization of PM10. Juliana is an animal lover, taekwondo blue belt, enjoys hiking and is passionate about astronomy.
 
 Contact: julianamejia_at_arizona.edu
+
+![](ashlynne-photo.jpg){:class="float-left"}{:height='300'}
+
+**Doctoral Student - Ashlynne Gary**
+
+Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, looking at the effect of ice microphysics and cloud-radiative heating on tropical cyclogenesis. She is also interested in wildfire research and exoplanets. She finished her B.S. in Atmospheric Science and Planetary Sciences in Spring 2025 at Purdue University where she did research on exoplanet cloud microphysics. She was an intern at the NOAA Storm Prediction Center in summer 2024, constructing wildfire climatologies, and was part of Purdue University's Meteorological Association over the past few years. In her free time, she enjoys reading, hiking, dancing, and playing piano.
+
+Contact: aogary_at_arizona.edu
 
 ![](gracee.JPG){:class="float-left"}{:height='225'}
 
