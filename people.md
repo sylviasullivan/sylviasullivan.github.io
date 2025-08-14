@@ -38,7 +38,7 @@ Juliana is in her third year of the Ph.D. program in Environmental Engineering. 
 
 Contact: julianamejia_at_arizona.edu
 
-![](ashlynne-photo.jpg){:class="float-left"}{:height='300'}
+![](ashlynne-photo.JPG){:class="float-left"}{:height='300'}
 
 **Doctoral Student - Ashlynne Gary**
 
