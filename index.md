@@ -13,11 +13,11 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | 18 August 2025 | Welcome to Ashlynne Gary, our newest group member, who will start her PhD in Atmospheric Sciences from Fall 2025!
 |:-----------|:------|
-| 14 August 2025 | Edgardo's article on ice optical sensitivities of cloud-radiative heating has been accepted in [Atmospheric Chemistry & Physics](https://acp.copernicus.org/articles/25/8943/2025/).
+| 22 August 2025 | Sylvia's article on moisture-precipitation couplings in mesoscale convective systems was published in the Journal of Atmospheric Science [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0174.1/JAS-D-24-0174.1.xml).
+| 14 August 2025 | Edgardo's article on ice optical sensitivities of cloud-radiative heating was published in [Atmospheric Chemistry & Physics](https://acp.copernicus.org/articles/25/8943/2025/).
 | 11-12 August 2025 | Edgardo and Thabo are visiting collaborators at the National Center for Atmospheric Research through our CORE award.
 | 29 July 2025 | Thabo's first first-author article on precipitation efficiency in storm-resolving models was published in the [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JD044228).
 | 21 July 2025 | Sylvia is in Monte Verita, Switzerland to present at the [Ice at the Microscale conference](https://ice2025.ethz.ch/).
-| 2 July 2025 | Sylvia's article on moisture-precipitation couplings in mesoscale convective systems was accepted at the Journal of Atmospheric Science [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0174.1/JAS-D-24-0174.1.xml).
 | 21 May 2025 | Sylvia is flying to Austria to begin an [Ida Pfeiffer Professorship](https://fgga.univie.ac.at/sylviasullivan/) this summer at the University of Vienna.
 | 19 May 2025 | We had a 2025-2026 proposal to the Salt River Project accepted to study the effects of urban heat islands on cloudiness around the Sun Corridor.
 | 15 May 2025 | Juliana is giving an oral presentation at the Colombia Congress and International Conference on Air Quality, Climate Change, and Public Health ([CASAP](https://casap.science/en/home/)).
