@@ -46,21 +46,13 @@ Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, look
 
 Contact: aogary_at_arizona.edu
 
-![](gracee.JPG){:class="float-left"}{:height='225'}
-
-**Undergraduate Student - Gracee Spatz**
-
-Gracee is an undergraduate junior majoring in Chemical Engineering. She will be helping to construct filter samplers for installation around the U of A and elsewhere to monitor atmospheric dust loadings and measure the ice-nucleating efficiency of the airborne dust. In her free time, she enjoys leading club meetings, building Lego sets, going thrifting and to concerts, and learning how to crochet. 
-
-![](hannah-headshot.png){:class="float-left"}{:height='225'}
-
-**Undergraduate Student - Hannah Golden**
-
-Hannah is an undergraduate student majoring in Chemical Engineering. She will be helping to construct filter samplers for installation around the UofA and elsewhere to monitor atmospheric dust loadings and measure the ice-nucleating efficiency of that airborne dust. In her free time, Hannah loves hiking, reading and traveling.
-
 --
 
 ## Former Group Members
+
+**Undergraduate Student - Gracee Spatz** - Finishing fourth year in ChemE
+
+**Undergraduate Student - Hannah Golden** - Finishing fourth year in ChemE
 
 **Undergraduate Student - Linda Engelman** - Environmental Engineer at Baxter & Woodman, Austin, TX
 
