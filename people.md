@@ -46,7 +46,7 @@ Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, look
 
 Contact: aogary_at_arizona.edu
 
-![](savanna-photo.JPG){:class="float-left"}{:height='300'}
+![](savanna-photo.JPEG){:class="float-left"}{:height='300'}
 
 **Masters Student - Savanna Prentice**
 
