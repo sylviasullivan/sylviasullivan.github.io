@@ -46,13 +46,21 @@ Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, look
 
 Contact: aogary_at_arizona.edu
 
+![](savanna-photo.JPG){:class="float-left"}{:height='300'}
+
+**Masters Student - Savanna Prentice**
+
+Savanna is a senior at the University of Arizona and will finish her B.S. in Chemical Engineering in Spring 2026. She is also beginning the Accelerated Master’s Program in Chemical Engineering in our group. She previously interned at Raytheon in the materials verification lab, where she performed shelf-life testing of elastomer components. At the University of Arizona, she is an active member of the Homebrew Club with many of her fellow Chemical Engineering undergraduates. In her spare time, she enjoys running, going to the gym, line dancing, and cheering on the University of Arizona at hockey games and other sporting events.
+
+Contact: prentices1_at_arizona.edu
+
 --
 
 ## Former Group Members
 
-**Undergraduate Student - Gracee Spatz** - Finishing fourth year in ChemE
+**Undergraduate Student - Gracee Spatz** - Finishing fourth year of B.S. in Chemical Engineering at the University of Arizona
 
-**Undergraduate Student - Hannah Golden** - Finishing fourth year in ChemE
+**Undergraduate Student - Hannah Golden** - Finishing fourth year of B.S. in Chemical Engineering at the University of Arizona
 
 **Undergraduate Student - Linda Engelman** - Environmental Engineer at Baxter & Woodman, Austin, TX
 
