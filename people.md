@@ -46,6 +46,14 @@ Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, look
 
 Contact: aogary_at_arizona.edu
 
+![](giorgia-photo.JPG){:class="float-left"}{:height='300'}
+
+**Undergraduate Student - Giorgia Melita**
+
+Giorgia is currently in her third year of the Bachelor's program in Chemical Engineering. She is supporting our NASA CHIRP project by experimentally nucleating and growing ice crystals of certain morphology from relevant atmospheric solutes within our cryogenic microscope. Her broad interests lie in topics like chemistry and astronomy. In her free time, she loves to draw, read, cook/bake, and be outdoors.
+
+Contact: giorgiamelita_at_arizona.edu
+
 --
 
 ## Former Group Members
