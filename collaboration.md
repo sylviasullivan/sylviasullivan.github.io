@@ -3,6 +3,29 @@ layout: default
 title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
+# NASA EXCITE Project
+
+We are using Tucson AERONET site data as part of the University of Arizona's NASA EXCITE project, focused on exposing more students to atmospheric science and promoting ground-based atmospheric observations. See [this webpage](https://uavip.arizona.edu/excite-nasa-measurements-study-earth) for a description of our activities and a Behind the Scenes video with our EXCITE participants in Tucson.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 1em 0;">
+  <iframe
+    src="https://www.youtube.com/embed/zOWqL0-CoIc"
+    title="EXCITE Behind the Scenes"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+# Collaboration with the Chilean Antarctic Institute (INACH)
+
+In 2026, Juliana Mejia, a graduate student in our group traveled down to King George Island, Antarctica in February 2026 to help maintain the ground-based measurement site of the Chilean Antarctic Institute (INACH). They are measuring surface temperature and wind speeds, atmospheric fluxes, and aerosol properties along the Antarctic peninsula.
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="/Photos/juliana-in-antarctica1.jpg" alt="Antarctica site 1" style="width: 32%;">
+  <img src="/Photos/juliana-in-antarctica2.jpg" alt="Antarctica site 2" style="width: 32%;">
+  <img src="/Photos/juliana-in-antarctica-5.jpg" alt="Antarctica site 3" style="width: 32%;">
+</div>
 
 # Clouds and their Climatic Impacts
 
@@ -10,7 +33,7 @@ Sylvia led the editing of a new volume available since December 2023 through AGU
 
 ## Hydrological studies
 
-I have been lucky to work with Dr. Jiabo Yin and others at Wuhan University on several hydrological studies, discussing the intensification of runoff, drought, and flooding both globally and in China.
+We have worked with Dr. Jiabo Yin and others at Wuhan University on several hydrological studies, discussing the intensification of runoff, drought, and flooding both globally and in China.
 
 <img src="/Files/drought-severity.PNG" width="600" height="200" />
 
