@@ -10,6 +10,7 @@ description: Department of Chemical and Environmental Engineering, University of
 We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
 
 # Latest News
+
 | Date | News |
 |:-----|:-----|
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
