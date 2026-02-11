@@ -10,8 +10,9 @@ description: Department of Chemical and Environmental Engineering, University of
 We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
 
 # Latest News
+| Date | News |
+|:-----|:-----|
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
-|:-----------|:------|
 | 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
 | 10 January 2026 | Sylvia and Edgardo's article on upper troposphere-lower stratosphere thermodynamic and cloud properties has been accepted at Atmospheric Chemistry & Physics [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4981/). |
 | 15 December 2025 | Thabo and Edgardo are in New Orleans for the AGU Annual Meeting. |
