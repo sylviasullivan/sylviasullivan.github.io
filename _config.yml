@@ -3,3 +3,8 @@ description: Department of Chemical and Environmental Engineering, University of
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
