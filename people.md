@@ -4,7 +4,7 @@ title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
 
-![](sylvia.jpg){:class="float-left"}{:height='300'}
+![](/Photos/sylvia.jpg){:class="float-left"}{:height='300'}
 
 **Principal Investigator - Sylvia Sullivan**
 
@@ -14,7 +14,7 @@ Contact: sylvia_at_arizona.edu
 
 **[Sylvia's CV](/Files/CV-SSullivan.pdf)**
 
-![](thabo.jpg){:class="float-left"}{:height='300'}
+![](/Photos/thabo.jpg){:class="float-left"}{:height='300'}
 
 **Doctoral Student - Thabo Makgoale**
 
@@ -22,7 +22,7 @@ Thabo is a fourth-year Ph.D. student in Hydrology & Atmospheric Sciences, focusi
 
 Contact: temakgoale_at_arizona.edu
 
-![](edgardo.jpg){:class="float-left"}{:height='300'}
+![](/Photos/edgardo.jpg){:class="float-left"}{:height='300'}
 
 **Doctoral Student - Edgardo Sepúlveda Araya**
 
@@ -30,7 +30,7 @@ Edgardo is a fourth-year Ph.D. student in Environmental Engineering, focusing on
 
 Contact: edgardo_at_arizona.edu
 
-![](juliana-photo.jpg){:class="float-left"}{:height='300'}
+![](/Photos/juliana-photo.jpg){:class="float-left"}{:height='300'}
 
 **Doctoral Student - Juliana Mejía Sepúlveda**
 
@@ -38,7 +38,7 @@ Juliana is in her third year of the Ph.D. program in Environmental Engineering. 
 
 Contact: julianamejia_at_arizona.edu
 
-![](ashlynne-photo.JPG){:class="float-left"}{:height='300'}
+![](/Photos/ashlynne-photo.JPG){:class="float-left"}{:height='300'}
 
 **Doctoral Student - Ashlynne Gary**
 
@@ -46,7 +46,7 @@ Ashlynne will start her Ph.D. in Atmospheric Sciences with us in Fall 2025, look
 
 Contact: aogary_at_arizona.edu
 
-![](giorgia-photo.jpg){:class="float-left"}{:height='300'}
+![](/Photos/giorgia-photo.jpg){:class="float-left"}{:height='300'}
 
 **Undergraduate Student - Giorgia Melita**
 
