@@ -19,7 +19,7 @@ We are using Tucson AERONET site data as part of the University of Arizona's NAS
 
 # Collaboration with the Chilean Antarctic Institute (INACH)
 
-In 2026, Juliana Mejia, a graduate student in our group traveled down to King George Island, Antarctica in February 2026 to help maintain the ground-based measurement site of the Chilean Antarctic Institute (INACH). They are measuring surface temperature and wind speeds, atmospheric fluxes, and aerosol properties along the Antarctic peninsula.
+In 2026, Juliana Mejia, a graduate student in our group traveled down to King George Island, Antarctica in February 2026 to help maintain the ground-based measurement site of the Chilean Antarctic Institute (INACH). They are measuring surface temperature and wind speeds, atmospheric fluxes, and aerosol properties along the Antarctic peninsula. INACH posted an article about her participation [here](https://www.inach.cl/monitorean-desde-la-antartica-el-impacto-global-del-humo-de-los-incendios-forestales/)!
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="/Photos/juliana-in-antarctica1.jpg" alt="Antarctica site 1" style="width: 32%;">
