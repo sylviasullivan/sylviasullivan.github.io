@@ -3,6 +3,12 @@ layout: default
 title: Lab for Multiscale Cloud Modeling and Experimentation
 description: Department of Chemical and Environmental Engineering, University of Arizona
 ---
+# NASA Instrument Incubator Project: CHanneled Infrared Polarimeter (CHIRP)
+
+We are excited to collaborate with researchers in the Wyant College of Optical Sciences at the UofA, as well as scientists at UCSD and NASA JPL, in NASA IIP-23: CHanneled Infared Polarimeter. The project is led by Prof. Meredith Kupinski and will build an infrared polarimeter with unprecedented accuracy to remotely sense in-cloud ice crystal sizes and shapes. More details about the effort are available at [Polarization Lab](https://sites.arizona.edu/pol-lab/channeled-infrared-polarimeter-chirp/).
+
+<img src="/Files/CHIRP-website-image.png" width="800" height="300" />
+
 # NASA EXCITE Project
 
 We are using Tucson AERONET site data as part of the University of Arizona's NASA EXCITE project, focused on exposing more students to atmospheric science and promoting ground-based atmospheric observations. See [this webpage](https://uavip.arizona.edu/excite-nasa-measurements-study-earth) for a description of our activities and a Behind the Scenes video with our EXCITE participants in Tucson.
