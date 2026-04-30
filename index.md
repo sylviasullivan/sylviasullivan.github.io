@@ -15,8 +15,12 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 30 April 2026 | Thabo was accepted in the 2026-2027 cohort of [Carsons Scholars](https://carson.arizona.edu/)!
+| 15 April 2026 | Sylvia is visiting the Department of Atmospheric Sciences at the University of Utah to give a seminar.
+| 5 March 2026 | Ashlynne will join the ARM Big Open Data Science Summer School in Norman, OK this May.
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
 | 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
+| 15 January 2026 | Welcome to Giorgia Melita and Zach Powers, undergraduates in chemical engineering who will assist with freezing experiments through the spring semester.
 | 10 January 2026 | Sylvia and Edgardo's article on upper troposphere-lower stratosphere thermodynamic and cloud properties has been accepted at Atmospheric Chemistry & Physics [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4981/). |
 | 15 December 2025 | Thabo and Edgardo are in New Orleans for the AGU Annual Meeting. |
 | 22 August 2025 | Sylvia's article on moisture-precipitation couplings in mesoscale convective systems was published in the Journal of Atmospheric Science [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0174.1/JAS-D-24-0174.1.xml). |
@@ -25,7 +29,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 11-12 August 2025 | Edgardo and Thabo are visiting collaborators at the National Center for Atmospheric Research through our CORE award. |
 | 29 July 2025 | Thabo's first first-author article on precipitation efficiency in storm-resolving models was published in the [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JD044228). |
 | 21 July 2025 | Sylvia is in Monte Verita, Switzerland to present at the [Ice at the Microscale conference](https://ice2025.ethz.ch/). |
-| 21 May 2025 | Sylvia is flying to Austria to begin an [Ida Pfeiffer Professorship](https://fgga.univie.ac.at/sylviasullivan/) this summer at the University of Vienna. |
-| 19 May 2025 | We had a 2025-2026 proposal to the Salt River Project accepted to study the effects of urban heat islands on cloudiness around the Sun Corridor. |
-| 15 May 2025 | Juliana is giving an oral presentation at the Colombia Congress and International Conference on Air Quality, Climate Change, and Public Health ([CASAP](https://casap.science/en/home/)). |
-| 1 May 2025 | Gracee and Hannah shared their work on design of INP filter samplers and their research on dust control technologies in completion of CHEE 392 this semester. |
