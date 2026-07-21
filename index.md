@@ -7,7 +7,7 @@ description: Department of Chemical and Environmental Engineering, University of
 
 # Research
 
-We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build resilience in water-susceptible regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
+We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build water and energy resilience in arid regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
 
 # Latest News
 
@@ -15,9 +15,11 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 6 July 2026 | Edgardo is in Boulder, CO for NCAR's CESM Tutorial this week.
+| 8 June 2026 | Sylvia is in Telluride, CO for a workshop on Aerosols and Clouds: Connections from the Laboratory to the Field to the Globe.
+| 18 May 2026 | Ashlynne is in Norman, OK for the DOE's ARM Big Data Summer School.
 | 30 April 2026 | Thabo was accepted in the 2026-2027 cohort of [Carsons Scholars](https://carson.arizona.edu/)!
 | 15 April 2026 | Sylvia is visiting the Department of Atmospheric Sciences at the University of Utah to give a seminar.
-| 5 March 2026 | Ashlynne will join the ARM Big Open Data Science Summer School in Norman, OK this May.
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
 | 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
 | 15 January 2026 | Welcome to Giorgia Melita and Zach Powers, undergraduates in chemical engineering who will assist with freezing experiments through the spring semester.
@@ -27,5 +29,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 18 August 2025 | Welcome to Ashlynne Gary, our newest group member, who will start her PhD in Atmospheric Sciences from Fall 2025! |
 | 14 August 2025 | Edgardo's article on ice optical sensitivities of cloud-radiative heating was published in [Atmospheric Chemistry & Physics](https://acp.copernicus.org/articles/25/8943/2025/). |
 | 11-12 August 2025 | Edgardo and Thabo are visiting collaborators at the National Center for Atmospheric Research through our CORE award. |
-| 29 July 2025 | Thabo's first first-author article on precipitation efficiency in storm-resolving models was published in the [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JD044228). |
-| 21 July 2025 | Sylvia is in Monte Verita, Switzerland to present at the [Ice at the Microscale conference](https://ice2025.ethz.ch/). |
