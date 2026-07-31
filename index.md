@@ -15,6 +15,8 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 10 August 2026 | Welcome to Yerim Seok, our group's newest PhD student!
+| 27 July 2026 | Sylvia led a collaborative study on utility of volume rendering and topological data analysis for cloud research, accepted in the [Bulletin of the American Meteorological Society](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0055.1/BAMS-D-25-0055.1.xml?tab_body=pdf).
 | 6 July 2026 | Edgardo is in Boulder, CO for NCAR's CESM Tutorial this week.
 | 8 June 2026 | Sylvia is in Telluride, CO for a workshop on Aerosols and Clouds: Connections from the Laboratory to the Field to the Globe.
 | 18 May 2026 | Ashlynne is in Norman, OK for the DOE's ARM Big Data Summer School.
