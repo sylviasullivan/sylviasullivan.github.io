@@ -46,6 +46,14 @@ Ashlynne is in her second year of the Ph.D. in Atmospheric Sciences, working tow
 
 Contact: aogary_at_arizona.edu
 
+![](/Photos/Yerim_Seok.JPG){:class="float-left"}{:height='300'}
+
+**Doctoral Student - Yerim Seok**
+
+Yerim is in her first year of the Ph.D. program in Environmental Engineering. She is interested in ice cloud microphysics, cloud dynamics, and cloud radiative effects and will contribute to polarized radiative transfer calculations as part of our NASA CHIRP collaboration. She completed her Bachelor’s and Master’s degrees in Climate and Energy Systems Engineering at Ewha Womans University in South Korea (B.S., 2024; M.S., 2026). During her master’s studies, she conducted research on clouds and atmospheric radiation using geostationary satellite observations over the Pacific Warm Pool. She also contributed to the development of cloud retrieval algorithms for satellite-based photovoltaic forecasting. In her free time, she enjoys watching movies and documentaries, journaling, swimming, and traveling.
+
+Contact: yerims_at_arizona.edu
+
 **Master's Student - Zach Powers**
 
 Zach is currently in his fourth year of the Bachelor's program and first year of the Accelerated Master's Program in Chemical Engineering. He is supporting our NASA CHIRP project by experimentally nucleating and growing ice crystals of certain morphology from relevant atmospheric solutes within our cryogenic microscope. 
