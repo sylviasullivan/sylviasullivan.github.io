@@ -15,6 +15,7 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 15 August 2026 | Congratulations to Juliana on her scholarship from the [Southern Arizona Environmental Management Society Inc.](https://saems.org/scholarships/)
 | 10 August 2026 | Welcome to Yerim Seok, our group's newest PhD student!
 | 27 July 2026 | Sylvia led a collaborative study on utility of volume rendering and topological data analysis for cloud research, accepted in the [Bulletin of the American Meteorological Society](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0055.1/BAMS-D-25-0055.1.xml?tab_body=pdf).
 | 6 July 2026 | Edgardo is in Boulder, CO for NCAR's CESM Tutorial this week.
@@ -28,6 +29,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 10 January 2026 | Sylvia and Edgardo's article on upper troposphere-lower stratosphere thermodynamic and cloud properties has been accepted at Atmospheric Chemistry & Physics [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4981/). |
 | 15 December 2025 | Thabo and Edgardo are in New Orleans for the AGU Annual Meeting. |
 | 22 August 2025 | Sylvia's article on moisture-precipitation couplings in mesoscale convective systems was published in the Journal of Atmospheric Science [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0174.1/JAS-D-24-0174.1.xml). |
-| 18 August 2025 | Welcome to Ashlynne Gary, our newest group member, who will start her PhD in Atmospheric Sciences from Fall 2025! |
-| 14 August 2025 | Edgardo's article on ice optical sensitivities of cloud-radiative heating was published in [Atmospheric Chemistry & Physics](https://acp.copernicus.org/articles/25/8943/2025/). |
-| 11-12 August 2025 | Edgardo and Thabo are visiting collaborators at the National Center for Atmospheric Research through our CORE award. |
