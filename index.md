@@ -7,6 +7,8 @@ description: Department of Chemical and Environmental Engineering, University of
 
 # Research
 
+![](/Photos/20260828_research-group2.jpg){:class="float-right"}{:height='300'}
+
 We are broadly interested in scale interactions in the atmosphere and how best to represent these in weather and climate models in order to build water and energy resilience in arid regions. We use laboratory experiments to constrain small-scale parameters, such as ice-nucleating efficiency of different particles or ice crystal growth rates, and high-resolution models to understand the effect of these parameters on large-scale variables of interest, such as surface temperatures or rainfall rates. Some themes of interest include how increasing aridity in the Southwest may feedback on rainfall patterns or affect solar energy output and how the efficiency of precipitation formation may change as the atmosphere warms.
 
 # Latest News
