@@ -23,7 +23,7 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 6 July 2026 | Edgardo is in Boulder, CO for NCAR's CESM Tutorial this week.
 | 8 June 2026 | Sylvia is in Telluride, CO for a workshop on Aerosols and Clouds: Connections from the Laboratory to the Field to the Globe.
 | 18 May 2026 | Ashlynne is in Norman, OK for the DOE's ARM Big Data Summer School.
-| 30 April 2026 | Thabo was accepted in the 2026-2027 cohort of [Carsons Scholars](https://carson.arizona.edu/)!
+| 30 April 2026 | Thabo was accepted in the 2026-2027 cohort of [Carsons Scholars](https://carson.arizona.edu/person/thabo-makgoale)!
 | 15 April 2026 | Sylvia is visiting the Department of Atmospheric Sciences at the University of Utah to give a seminar.
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
 | 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
