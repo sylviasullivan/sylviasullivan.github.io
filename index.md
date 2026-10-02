@@ -17,6 +17,8 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 5 October 2026 | Edgardo is in Florianópolis, Brazil on a student travel grant to present at the [5th Advancement of POLarimetric Observations Workshop](https://apolo.loa.univ-lille.fr/).
+| 18 September 2026 | Thabo's [second first-author paper](https://acp.copernicus.org/articles/26/13157/2026/acp-26-13157-2026.pdf) was published in Atmospheric Chemistry \& Physics, quantifying precipitation efficiency from satellite-based convective tracking.
 | 15 August 2026 | Congratulations to Juliana on her scholarship from the [Southern Arizona Environmental Management Society Inc.](https://saems.org/scholarships/)
 | 10 August 2026 | Welcome to Yerim Seok, our group's newest PhD student!
 | 27 July 2026 | Sylvia led a collaborative study on utility of volume rendering and topological data analysis for cloud research, accepted in the [Bulletin of the American Meteorological Society](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0055.1/BAMS-D-25-0055.1.xml?tab_body=pdf).
@@ -27,7 +29,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 15 April 2026 | Sylvia is visiting the Department of Atmospheric Sciences at the University of Utah to give a seminar.
 | 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
 | 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
-| 15 January 2026 | Welcome to Giorgia Melita and Zach Powers, undergraduates in chemical engineering who will assist with freezing experiments through the spring semester.
-| 10 January 2026 | Sylvia and Edgardo's article on upper troposphere-lower stratosphere thermodynamic and cloud properties has been accepted at Atmospheric Chemistry & Physics [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4981/). |
-| 15 December 2025 | Thabo and Edgardo are in New Orleans for the AGU Annual Meeting. |
-| 22 August 2025 | Sylvia's article on moisture-precipitation couplings in mesoscale convective systems was published in the Journal of Atmospheric Science [here](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0174.1/JAS-D-24-0174.1.xml). |
