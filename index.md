@@ -17,6 +17,8 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 
 | Date | News |
 |:-----|:-----|
+| 3 November 2026 | Juliana has advanced to candidature in the Environmental Engineering program after passing her doctoral comprehensive exam!
+| 27 October 2026 | Edgardo has been awarded the Outstanding Graduate Student in Environmental Engineering for this semester. Congratulations!
 | 5 October 2026 | Edgardo is in Florianópolis, Brazil on a student travel grant to present at the [5th Advancement of POLarimetric Observations Workshop](https://apolo.loa.univ-lille.fr/).
 | 18 September 2026 | Thabo's [second first-author paper](https://acp.copernicus.org/articles/26/13157/2026/acp-26-13157-2026.pdf) was published in Atmospheric Chemistry \& Physics, quantifying precipitation efficiency from satellite-based convective tracking.
 | 15 August 2026 | Congratulations to Juliana on her scholarship from the [Southern Arizona Environmental Management Society Inc.](https://saems.org/scholarships/)
@@ -27,5 +29,3 @@ We are broadly interested in scale interactions in the atmosphere and how best t
 | 18 May 2026 | Ashlynne is in Norman, OK for the DOE's ARM Big Data Summer School.
 | 30 April 2026 | Thabo was accepted in the 2026-2027 cohort of [Carsons Scholars](https://carson.arizona.edu/person/thabo-makgoale)!
 | 15 April 2026 | Sylvia is visiting the Department of Atmospheric Sciences at the University of Utah to give a seminar.
-| 3 February 2026 | Juliana is flying to King George Island, Antarctica to help maintain the measurement station of the Chilean Antarctic Institute (INACH) for the next four weeks! |
-| 26 January 2026 | Juliana is in Houston for the American Meteorological Society meeting and will give a talk on her work studying links of aerosol extreme events and heat over the Southwest. |
